@@ -31,19 +31,6 @@ Raw files are downloaded only if they are missing. Delete `data/raw/` to get a f
 | `snow_stations.csv` | snow-observation field | `snow_station_code` (21MB) |
 | `snow_observations.csv` | snow observation (station, day) | `snow_station_code` + `date` |
 
-## Cleaning steps
+## Cleaning
 
-- Durations are converted to minutes (`HH:MM` → int), distances to km, elevations to int. Unparseable values are left empty and counted in the log.
-- OSM routes without either `ref` or `reg_ref` are removed, because they cannot be identified.
-- OSM distances that imply a speed above 20 km/h (e.g. `distance=1850` with a 40 min duration) were typed in metres; they are divided by 1000 (5 trails). Long multi-day routes (Sentiero della Pace, Alte Vie) are kept as they are.
-- For the two SAT codes that appear twice (E396, E731), only the first segment is kept.
-- SAT start and end coordinates come from the first and last point of the trail geometry.
-- In the snow-field XML the coordinates are UTM 32N, and the fields named `utmlat` / `utmlon` actually contain easting / northing. They are converted to WGS84 lat/lon.
-- Meteotrentino uses `///` for "not measured"; these become empty values.
-
-## Facts for the report (snapshot 2026-11-17)
-
-- 1080 SAT trails; 1078 of them match an OSM relation through `reg_ref`.
-- `tuttiUltimiRilieviNeve` returned only 10 observations covering the last week. Snow history and rain for the "last 3 days" CQs need another source (decision still open: Open-Meteo or periodic collection).
-
-Not included yet: weather measurements (they depend on the open decision about the reference date) and the geometry of the OSM routes (SAT start/end points are used instead).
+What was cleaned, why, and the before/after counts are documented in [`data_cleaning.md`](data_cleaning.md), together with the checks done and the open points.
