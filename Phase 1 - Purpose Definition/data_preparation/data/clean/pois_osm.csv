@@ -1,0 +1,1861 @@
+osm_id,poi_type,name,elevation_m,lat,lon
+node/247887464,restaurant,Dal Boccia,,46.0718261,11.1404686
+node/258441546,restaurant,Ristorante Pizzeria Alle Palme,,45.9171651,11.0531014
+node/259973562,restaurant,Il bosco incantato,,46.1096102,11.1402622
+node/261081683,restaurant,Agritur,,46.2789911,11.4354671
+node/261086637,restaurant,Pizzeria La Ruota,,46.2712502,11.417343
+node/267649391,restaurant,Crown,,46.2148653,11.1168418
+node/268430904,restaurant,Dalla Sora Giovanna,,46.0674055,11.1243864
+node/268432521,restaurant,Trattoria Al Tino,,46.066267,11.1229923
+node/268435080,restaurant,Trattoria Al Mercato,,46.0659754,11.1238802
+node/268435081,restaurant,Borgo Nuovo Trento,,46.0658302,11.1236344
+node/268803099,restaurant,Agritur Maso Sorte,,46.2779665,11.4452067
+node/269145543,restaurant,Alla Grotta,,45.8949163,10.8702292
+node/269193687,restaurant,Al Vesuvio,,46.0752383,11.1251318
+node/269193730,restaurant,Birreria Pizzeria Pedavena,,46.0647702,11.123413
+node/269193732,restaurant,Trattoria al Volt,,46.0644782,11.1232307
+node/269348445,restaurant,Albergo Dolomiti,,46.1601698,11.2345535
+node/269356399,restaurant,Pizzeria Anna,,46.0683757,11.2539178
+node/269358770,restaurant,Pizzeria 4 Venti,,46.2620421,11.3546478
+node/269512908,restaurant,Pizzeria Primavera,,46.0707264,11.1246538
+node/271009437,restaurant,Ristorante alle Foci da Rita,,45.9120449,10.8365826
+node/276923561,restaurant,New Lido - Ristorante Pinseria,,46.1339585,11.2571178
+node/277697218,restaurant,Dia Luna cafè pizzeria,,46.0848853,11.2100564
+node/281692703,restaurant,Malga Salanzada,,46.272539,11.4638938
+node/285976123,restaurant,Malga Cambroncoi,1705,46.1360828,11.3065372
+node/286290910,alpine_hut,Baita dell'Alpino,1594,46.260541,11.5986885
+node/288938675,restaurant,Pizzeria OroStube,,46.0647594,11.1504525
+node/289225782,restaurant,La Botte,,46.0661346,11.1548152
+node/290998952,restaurant,Agriturismo Ai molini,,46.1929312,11.1566275
+node/292021580,restaurant,Ristorante Pizzeria 4 Stagioni,,46.0753126,11.1378543
+node/292258759,restaurant,Victor,,46.3381184,11.0633214
+node/293866039,restaurant,Turismo,,46.060124,11.237059
+node/293869757,restaurant,Osteria 17,,46.0601877,11.2404122
+node/298086066,restaurant,Ristorante Ai Canopi,0,46.0939699,11.1305891
+node/299927723,restaurant,Rifugio Ghedina,,46.1158602,10.8085216
+node/302730973,restaurant,Cadino,,46.2178798,11.1531916
+node/303825064,restaurant,HERO La Casa del Burger,,46.3139768,11.5988416
+node/303826370,restaurant,Pizzeria Millenium,,46.3093023,11.6013606
+node/303828168,restaurant,Pizzeria L'arcade,,46.3109049,11.6028261
+node/303832096,restaurant,Majestic,,46.3065591,11.5985512
+node/304632628,restaurant,Pizzeria Ristorante Belvedere,,46.2320688,10.8274323
+node/304632837,restaurant,Ristorante Pizzeria Le Roi,,46.2325953,10.8254299
+node/317526677,restaurant,Paoli Hotel - Antica Trattoria alla Vedova,,45.9886994,11.3006401
+node/319917018,restaurant,Agritur Le Vallene,,46.1121336,11.0470198
+node/322895287,restaurant,La Trattoria,,46.2825141,11.5229928
+node/333783337,restaurant,Al cervo,,46.3149326,10.8125093
+node/333791569,restaurant,La Cantina di Suisse,,46.230922,10.8265841
+node/335596730,restaurant,Tana del Barba,,46.3525109,10.912659
+node/341091742,restaurant,Osteria Al Travaion,,46.2155184,11.0870302
+node/355968440,restaurant,Capriccio,,46.1891991,11.1287253
+node/363578299,restaurant,Pizzeria Credai,,46.3426856,11.1276835
+node/363579455,restaurant,Agritur Agostini,,46.364743,11.1000197
+node/365499674,restaurant,NoFormat,,46.0882875,11.1211946
+node/369568235,restaurant,Agritur Calvola,,45.9256591,10.8322504
+node/388930801,restaurant,La Lanterna,,46.3001554,11.4475121
+node/388981198,restaurant,Agritur Zanon,,46.2965692,11.4994485
+node/415504641,restaurant,Dolomiti,,46.3256919,10.8611651
+node/416983481,restaurant,Al Mas,,46.1231693,11.2595873
+node/417322481,alpine_hut,Rifugio Serot,1566,46.0734662,11.3881872
+node/417409269,restaurant,,,45.8903566,11.043829
+node/417675381,restaurant,Angi,,46.0471016,11.2333835
+node/417856704,restaurant,Pizzeria Botti,,45.8751426,11.0335673
+node/428639276,restaurant,Niky's,,46.0475076,11.1261306
+node/428644278,restaurant,Loto 1997,,46.0559897,11.1314758
+node/428817942,restaurant,Speckstube,,45.9742277,11.2446893
+node/430531035,restaurant,Blue Sax,,46.0563197,11.1287617
+node/430673959,restaurant,Sapori d'Asia,,46.0690767,11.118671
+node/431475183,restaurant,La Terrazza,,46.0406051,11.1329032
+node/431648975,restaurant,Sapori Mediterranei,,46.064995,11.1141049
+node/431658690,restaurant,Pizzeria da Albert,,46.0665817,11.1171679
+node/431658693,restaurant,Burger Fucktory,,46.0651062,11.1174849
+node/431658709,restaurant,Pizzeria Tetley's,,46.0657418,11.121244
+node/431658713,restaurant,Orso Grigio,,46.0655854,11.1222669
+node/432473109,restaurant,Ristorante Pizzeria Doc,,46.0635732,11.1310495
+node/432987066,restaurant,Pizzeria da Mimmo,,46.0377468,11.1053814
+node/439723633,restaurant,Pizzeria Tre novembre,,45.9693135,11.2326193
+node/439912351,restaurant,Assaje,,46.0684346,11.1246215
+node/440503597,restaurant,Happy Ranch,,46.1976615,11.2032566
+node/440669848,wilderness_hut,Bivacco dei Dorsini,,46.0968642,10.9042741
+node/441414833,restaurant,Ristorante Bar Pizzeria J&J,,46.0475169,11.1451508
+node/441880019,restaurant,La Terrazza,,45.8690229,10.874958
+node/442218340,restaurant,"Trattoria ""Al Parol""",,46.0668061,11.1405959
+node/442928069,restaurant,La Botte,,45.8545873,10.9463595
+node/445562136,restaurant,Pizzeria Okay,,45.8748472,11.033247
+node/447910526,alpine_hut,Rifugio Sauch,950,46.2159242,11.1943338
+node/455703644,alpine_hut,Rifugio Croz dell'Altissimo,1480,46.1706042,10.931698
+node/456830729,restaurant,Osteria storica Morelli,,46.0780116,11.2780202
+node/457521149,restaurant,La Svolta,,45.7949703,11.0960875
+node/457551203,restaurant,Pizzeria Bavaria,,45.8803073,10.8556849
+node/459656419,restaurant,Taverna La Botte,,46.1431234,10.9660326
+node/459656425,restaurant,Al Caminetto,,46.1406246,10.9619447
+node/462127221,restaurant,Baite di Prà,,46.0992927,10.6953547
+node/463189395,restaurant,Ai Vicoli,,46.0675785,11.1202669
+node/463547596,restaurant,Malga Canali,,46.2232952,11.8884108
+node/468069349,restaurant,Ristorante Pizzeria Nuova Castelli,,46.0760979,11.1240728
+node/471114151,restaurant,Aquila Nera,,46.0736674,11.3016006
+node/471114173,restaurant,Albergo ristorante Kamauz,,46.0747699,11.3027031
+node/478522448,restaurant,Pizzeria Comparsa - Al Baracca,,46.0943119,11.2334908
+node/478534965,restaurant,Ristorante pizzeria La Corte,,46.0788379,11.2037412
+node/478679524,restaurant,Break Point SS47 - Hotel e ristorante,,46.0764157,11.2075404
+node/482018936,restaurant,La scardola,,46.1291452,11.2447454
+node/482531366,restaurant,Osteria Al Moro,,46.0613829,11.2428217
+node/482716381,restaurant,Alla Rotonda,,46.0587504,11.2373901
+node/482849666,restaurant,Cristallo,,46.0618088,11.2417648
+node/484919953,restaurant,Agritur Malga Stramaiolo,,46.1589433,11.3282197
+node/489680926,restaurant,Pizzeria Baitella,,46.0503024,11.2568822
+node/489869145,restaurant,Casa Beust,,45.8687443,10.8755678
+node/491426469,restaurant,Ristorante Pizzeria NAZIONALE,,45.8838758,10.8387996
+node/497059302,restaurant,Agritur Tinglerhof,,46.0676326,11.31628
+node/497065140,restaurant,Al Sole,,46.0056784,11.2726206
+node/497092919,restaurant,Ristorante Valcanover,,46.0270136,11.2296822
+node/497092958,restaurant,Giropizza VIP,,46.0319673,11.2297645
+node/497095123,restaurant,La Darsena,,46.0383649,11.2370537
+node/498751319,restaurant,Baita Van Spitz,,46.0839607,11.316434
+node/506781537,restaurant,Restel de Fer,,45.8825265,10.8567684
+node/510963459,restaurant,Trattoria Sant'Alessandro,,45.8903019,10.8624376
+node/511197998,restaurant,Ristorante Castello,,45.9168932,10.832553
+node/511198005,restaurant,Hotel ristorante Antica Croce,,45.9174613,10.8328756
+node/537513269,restaurant,La Vecchia Segheria,,46.1335973,11.2474976
+node/546185076,restaurant,Agriturismo Simoni,,46.1582629,11.1405538
+node/554849478,alpine_hut,Rifugio Selvata,1630,46.1612616,10.9262935
+node/556679612,restaurant,Milli Eat & drink,,46.071873,11.1249148
+node/556679636,restaurant,Ristorante Pizzeria Green Tower,,46.0719552,11.1244405
+node/557149998,restaurant,Ristorante Pizzeria Chistè,,46.0688418,11.1215699
+node/557150278,restaurant,Rosa d'Oro,,46.0683452,11.1198902
+node/557197352,restaurant,Al Duomo,,46.0669201,11.120637
+node/558628481,restaurant,Antica Trattoria Due Mori,,46.0701955,11.1250694
+node/562715340,restaurant,Pizzeria Corona,,46.1385343,11.1139574
+node/562715344,restaurant,Pizzeria Dolomiti,,46.1400657,11.1114152
+node/563754421,restaurant,Il posto di Ste,,46.0685089,11.1234058
+node/563754485,restaurant,Alla Grotta,,46.0697703,11.1254356
+node/563754506,restaurant,Alla Mostra,,46.0710994,11.1258433
+node/564884219,restaurant,Wald,,46.0127302,11.2985019
+node/568433875,restaurant,Agritur Maso Rosso,,46.0174296,11.3344358
+node/570699433,restaurant,Meridiana,,46.0396592,11.2424562
+node/570818625,restaurant,Ca' dei Gobj - Ristorante Birreria,,46.0685346,11.123725
+node/583378546,restaurant,Pizzeria Ristorante Centrale,,45.9200846,10.8701365
+node/606228615,restaurant,Carlone,,46.006716,10.6979423
+node/608058937,restaurant,Restaurant PanoramaHotel Penegal,,46.4376758,11.2163572
+node/609130800,restaurant,Hotel Waldheim,,46.417282,11.1663497
+node/614841366,restaurant,La Segosta,,46.354057,10.9135918
+node/616524561,restaurant,Ristorante Pizzeria 800,,46.4007023,10.8471823
+node/616524688,restaurant,Al Molin,,46.4084443,10.797753
+node/616524794,restaurant,Al Cervo,,46.4084995,10.8247999
+node/622616549,restaurant,La Locanda De Mauris,,46.3436876,10.9018118
+node/623890479,restaurant,Ristorante La Soldanella,,46.4206832,11.7059765
+node/623894359,restaurant,Malga Aloch,,46.4231412,11.688932
+node/651743048,restaurant,La Lanterna,,46.169092,11.0116136
+node/660602729,restaurant,Clesio,,46.0710082,11.1223206
+node/665088011,restaurant,La Canopa,,46.1024279,11.1929655
+node/667341321,restaurant,Sushi Koi,,46.1385894,11.1043856
+node/671569115,restaurant,Ristorante-Bar -Pizzeria alle Bocce,,45.9580679,10.9071515
+node/697859347,restaurant,Albergo Ristorante Miralago,1620,46.2014537,11.7928516
+node/702251265,restaurant,,,45.7680598,11.001381
+node/702858982,restaurant,Saionara,,46.0316103,10.8691315
+node/702859043,restaurant,Don Pedro,,46.0364928,10.8755266
+node/702859059,restaurant,Posta,,46.0349105,10.8719622
+node/721666676,restaurant,Malga Tognòla,1988,46.2442519,11.7674447
+node/722738557,restaurant,Malga Valcigolera,1880,46.2613758,11.7608256
+node/722739712,restaurant,Dismoni,,46.2169468,11.8076764
+node/722739772,restaurant,Malga Ces,1670,46.2706958,11.7732329
+node/725564126,restaurant,Bellavita,,45.8694719,10.8756162
+node/734201620,restaurant,Pizzeria Valmaria,,45.8699429,10.7453614
+node/739660877,alpine_hut,Rifugio Caltena,1265,46.1514584,11.8596467
+node/739687306,restaurant,Le Vale,,46.1543646,11.8482203
+node/748752268,restaurant,Ristorante Pizzeria Passo Gobbera,,46.1475426,11.7582162
+node/748789582,restaurant,Le Strie,,45.9121093,11.023236
+node/758777435,restaurant,Sass Maor,,46.2604516,11.8014262
+node/764073298,restaurant,Osteria San Rocco,,46.0642247,11.0963426
+node/771959022,restaurant,Chalet Tovel,,46.2638889,10.9527444
+node/777284830,restaurant,Pizzeria Brione,,45.9041738,11.0432585
+node/790404928,restaurant,Ca'Rossa,,46.0278025,11.2456279
+node/799244306,restaurant,Ristorante Boivin,,46.0112745,11.3003904
+node/799244380,restaurant,La Stua,,46.0092258,11.2998717
+node/799244416,restaurant,Pizzeria Ristorante Millennium,,46.0166373,11.2947388
+node/802269764,restaurant,Sakura,,45.8887242,11.0431131
+node/803487776,restaurant,Leon D'Oro,,45.8857342,10.839254
+node/803634498,restaurant,Bella Napoli,,45.886038,10.8396464
+node/811086967,restaurant,Ristorante al Vò,,46.0707584,11.1240341
+node/811087041,restaurant,Le due spade,,46.0669357,11.1202703
+node/811268615,restaurant,Monti Lessini,,45.6942819,10.9755218
+node/828706615,restaurant,Osteria Le Servite,,45.8998773,10.8656722
+node/828742974,restaurant,Albergo Ristorante Casa Moresc,,46.1001891,10.7392088
+node/837195066,restaurant,,,46.1557866,11.5271978
+node/846628179,restaurant,Ristorante Dal Pez,,46.2750219,11.0483338
+node/850250435,restaurant,Trattoria al Lago,,46.2395872,11.0621191
+node/853802748,restaurant,Casa Lia,,46.0655401,11.1229622
+node/853824031,restaurant,Bar Dologno,,46.0540744,10.8733126
+node/859538691,restaurant,Astoria,,45.9406668,11.2511743
+node/859538693,restaurant,Bertoldi,,45.9408451,11.2508268
+node/859538698,restaurant,Esperia,,45.9415462,11.251462
+node/861050488,restaurant,Ristorante Pizzeria Mana,,46.2081112,11.0940885
+node/861317503,restaurant,Tinka Bar & Bistrot,,45.8712645,10.8756672
+node/862967050,restaurant,,,46.0048643,11.285328
+node/863822467,restaurant,,,46.050102,11.3187461
+node/865298453,restaurant,Scrigno Del Duomo,,46.0673691,11.1208671
+node/866739433,restaurant,Goofy Pub-Ristorante-Pizzeria,,46.3956967,11.6653218
+node/867439213,restaurant,Fujiyama,,46.0614959,11.1246535
+node/870463323,restaurant,Hua Xing,,46.210974,11.0906551
+node/877075854,restaurant,Hosteria Toblino,,46.0452626,10.9522386
+node/877075855,restaurant,Al convento,,46.0482585,10.9540783
+node/877620656,restaurant,Ristorante Patelli,,46.06542,11.1231685
+node/877621024,restaurant,Bouganville,,46.0732669,11.1243103
+node/883476784,restaurant,Agritur Martinelli,,45.9620739,11.2313769
+node/885669886,restaurant,Osteria il Cappello,,46.0694744,11.1252167
+node/885669909,restaurant,Antico Pozzo,,46.0704721,11.1231435
+node/885670117,restaurant,Ristorante Pizzeria Anfiteatro,,46.0692243,11.1255339
+node/888671469,restaurant,Trittico,,46.0864895,11.1198778
+node/888671476,restaurant,Sushi Otto,,46.0863136,11.1187275
+node/890516959,restaurant,Il ritrovo,,46.0601411,11.1205091
+node/892578912,restaurant,Tre Portoni,,46.0637857,11.1231255
+node/892579043,restaurant,Pizzeria Passù,,46.0655008,11.1246474
+node/895945447,restaurant,Tartufo,,46.0941956,11.1187455
+node/903941484,restaurant,La Brace,,45.8644376,11.0285258
+node/904600325,restaurant,Pizzeria Ristorante Antica Corte,,45.9207689,10.8912342
+node/906969026,restaurant,Poke sun-rice,,46.0679917,11.1231389
+node/909818124,restaurant,Korallo,,46.069728,11.1363013
+node/915652265,restaurant,Ristorante alla Staffa,,45.8725589,11.0243076
+node/918957461,restaurant,Hotel Ristorante Alla Nave,,46.1649408,11.112481
+node/926736174,restaurant,Hotel Centrale,,45.8849541,10.8397732
+node/937687311,restaurant,Santuario Madonna dell'Aiuto,,46.2015591,11.2801381
+node/937699739,restaurant,Durer,,46.1683241,11.2472358
+node/937732242,restaurant,Baita Monte Pat,,46.2208602,11.3451241
+node/939588720,restaurant,Giardino,,46.3645572,11.0331226
+node/939588781,restaurant,Flamingo,,46.364303,11.0361891
+node/943285753,restaurant,Pizza Granda,,46.3652479,11.0334435
+node/943372500,restaurant,Caprice,,46.3604479,11.028687
+node/943767056,restaurant,Meridiana,,46.366486,11.0355416
+node/943890849,restaurant,Nazionale,,46.3622706,11.036373
+node/945021956,restaurant,Cacio & Pepe,,46.0736462,11.1486234
+node/945470814,restaurant,Antica Trattoria,,46.3651365,11.033377
+node/945470837,restaurant,El Magic,,46.3642113,11.0356357
+node/945470842,restaurant,Il Glicine,,46.3664036,11.0324192
+node/945470857,restaurant,Piadineria Picasso,,46.3668066,11.0317157
+node/946581637,restaurant,Ristorante El Filò,,46.4282785,11.6839431
+node/950577478,restaurant,Ristorante Pizzeria Da Germana,,46.2529542,11.1670783
+node/955304924,restaurant,Ristorante pizzeria Torrefranca,,46.014365,11.1325434
+node/955954349,restaurant,Trattoria Belvedere,,45.9193215,10.8605169
+node/959238760,restaurant,Baita Alpina,,46.1719028,11.2995682
+node/959239616,restaurant,Fior Di Bosco,,46.1773539,11.167517
+node/963380711,restaurant,Sushi Chen,,46.357031,11.028998
+node/963839415,restaurant,Passaparola,,46.0126798,11.2979721
+node/963849190,restaurant,Papillon,,46.0090104,11.3118736
+node/963850107,restaurant,La Vecchia Fontana,,46.0108537,11.3017623
+node/963850608,restaurant,El Filò,,46.006842,11.3047925
+node/963860070,restaurant,La Cantina,,46.0081373,11.2908003
+node/964709886,restaurant,Al Casello,,46.1169072,11.0933813
+node/965088970,restaurant,Pizzeria Jolly,,45.9340044,11.0950623
+node/973022382,restaurant,Borghetto,,46.2161069,11.0883302
+node/976794325,restaurant,Poke go,,46.0665159,11.1224587
+node/991704085,restaurant,Ibris Pizzeria e Drink,,46.0680377,11.1205662
+node/997038212,restaurant,Roccaforte Trentina,,46.0661987,11.1240438
+node/1062772452,restaurant,Essenza,,46.0671251,11.124586
+node/1068398323,restaurant,Per Bacco,,46.2164386,11.0907132
+node/1068411472,restaurant,Roma,,46.2157989,11.0880396
+node/1071586787,restaurant,Baldanzini,,46.1711111,11.1211109
+node/1071586827,restaurant,La Vecchia Sorni,,46.1721299,11.1250013
+node/1072504536,restaurant,La Cantinota,,46.0113099,11.3013451
+node/1100568256,restaurant,Antica Osteria,,46.3070829,10.7372721
+node/1101757937,restaurant,Pizzeria Centrale,,46.1085481,11.3027904
+node/1103418479,restaurant,Kaserbisn Hitt,,46.1027884,11.3396713
+node/1104479488,restaurant,Le Migole,,46.2832098,11.5249909
+node/1110591774,restaurant,Ai Conti,,45.9189291,10.8861067
+node/1112898194,restaurant,Ciao,,46.0902962,11.11696
+node/1126515130,restaurant,Ristorante Pizzeria Fiore Blu,,46.185274,11.0305043
+node/1127041223,restaurant,,,46.1695893,11.0038261
+node/1138738197,restaurant,Welcome India,,46.0721641,11.117452
+node/1147756663,restaurant,Forsterbräu Trento,,46.0687513,11.1224948
+node/1154395707,restaurant,Ristorante S.Ilario Pizzeria,,45.9084352,11.0404587
+node/1156368143,restaurant,Perbene - Pizza o quasi,,46.0682596,11.1232081
+node/1167979632,restaurant,Duà Pizza & Drink,,46.0638082,11.1217157
+node/1211136673,restaurant,Tàstiko,,46.0684053,11.1188143
+node/1212207472,restaurant,La Vecchia Zambana,,46.1560668,11.080393
+node/1212500269,alpine_hut,Chalet Cima Uomo,2012,46.3849889,11.7980503
+node/1227194701,restaurant,Ristorante Nardelli,,46.2379438,11.0300918
+node/1227195165,restaurant,Agritur Sandro,,46.2380978,11.0306302
+node/1228464461,restaurant,,,46.4294616,11.6854527
+node/1230287511,restaurant,Pizzeria Da Salin,,46.435889,11.69011
+node/1230861638,restaurant,Malga Varena,,46.3525463,11.4840643
+node/1246694600,restaurant,Il Magnete,,46.0896734,11.1154352
+node/1246694623,restaurant,Nord Cafè,,46.0900502,11.115548
+node/1256745268,restaurant,Do Vea,,46.4273725,11.686742
+node/1257221199,restaurant,Hotel La Stua,,46.2925262,11.4587886
+node/1260048060,restaurant,Castel Toblino,,46.0548292,10.9671465
+node/1264896565,restaurant,Al Gusto,,46.0611277,11.1284655
+node/1271576468,restaurant,Centrale,,46.2992282,11.0308909
+node/1277721801,restaurant,La Parra,,46.2989358,11.0690985
+node/1293801967,restaurant,Ristorante Pizzeria Il Barone,,45.9287295,11.0716901
+node/1302018429,restaurant,Pizzeria La Leonessa,,45.8852002,10.8397078
+node/1308041322,restaurant,"Ristorante Birreria ""Al Giardino""",,45.8771102,10.9338068
+node/1312818573,restaurant,Tre garofani,,46.0657958,11.1230007
+node/1326291299,restaurant,ristorante Malga valpiana,,46.2866322,10.739933
+node/1331577082,restaurant,Ristorante Pizzeria Rosalpina,,46.0213467,11.1498623
+node/1336725512,restaurant,Fogajard,,46.2058725,10.8186606
+node/1350658039,restaurant,Officina Gambrinus,,46.1278938,11.1094114
+node/1350658043,restaurant,Ristorante lounge bar Indovino,,45.8574232,11.0014772
+node/1357187709,restaurant,Asterix,,46.0560137,10.883583
+node/1361631209,alpine_hut,"Rifugio Forestale ""Val delle Moneghe""",1265,46.1832514,11.9462178
+node/1362647005,restaurant,Agritur Alpino,,46.1846342,11.0297118
+node/1362647037,restaurant,Ristorante Viola,,46.1862383,11.0311268
+node/1364971578,restaurant,Bond One,,46.0392766,11.0570246
+node/1366734642,restaurant,La Ciacera,,45.8898086,11.039705
+node/1366801089,restaurant,Bella 'mbriana,,46.0695117,11.1266406
+node/1366801107,restaurant,La Cantinota,,46.0700878,11.1249374
+node/1369533422,restaurant,Tipico,,46.0670225,11.1245191
+node/1371177750,restaurant,Le tre cime del Bondone,,46.0690501,11.0566646
+node/1381612274,restaurant,,,46.1771822,11.0530255
+node/1381612345,restaurant,Ristorante Pizzeria Agostini,,46.1793365,11.0704343
+node/1400537508,restaurant,Giardino di giada,,46.0598074,11.2395195
+node/1402541403,restaurant,Ca' del Marco,,45.8964439,11.0408045
+node/1404359364,restaurant,Bar Pizzeria Cucina San Francesco,,46.3674649,10.9578153
+node/1411029986,alpine_hut,Malga Kraun,1222,46.2513352,11.1412315
+node/1415471354,restaurant,Pizzeria Bon Ton,,46.0902216,11.1812668
+node/1431628407,restaurant,Pizzeria Ristorante Pace,,45.919716,10.8841607
+node/1444891925,restaurant,Al Volt,,45.8863128,10.8397092
+node/1449166720,restaurant,Panorama,,46.3171673,11.0687412
+node/1462796976,restaurant,Sushi Zen,,46.0688102,11.1231582
+node/1468552659,restaurant,"Ristorante ""Le Càore""",,46.3195952,11.5027384
+node/1477270680,restaurant,Aroma,,46.0560464,11.1202614
+node/1487741040,restaurant,Agritur Bagolin,,46.2656194,11.0895174
+node/1488553673,restaurant,Villa Aranci,,45.8834251,10.8524966
+node/1493571353,restaurant,Saporoso,,46.0629892,11.1275774
+node/1503398796,restaurant,Pizzeria Chef,,46.0683972,11.1248674
+node/1503398830,restaurant,Choco Fragola,,46.0684006,11.1250253
+node/1511958499,restaurant,Bar Ciao,,46.1441243,10.9651517
+node/1512648046,restaurant,El Filò,,46.1426074,10.9646752
+node/1521449447,restaurant,Veg. Point,,46.0135215,11.2666729
+node/1523132849,restaurant,Alla Terza,,46.0680972,11.1245432
+node/1523162587,restaurant,Al Diciassette,,46.0686754,11.1247628
+node/1523162612,restaurant,Chef Pizzeria,,46.0685548,11.1247781
+node/1523289665,restaurant,L'Osteria del Maso,,46.141513,10.9656808
+node/1524975600,restaurant,Antica Bosnia,,46.1425997,10.967
+node/1525442359,restaurant,Bucaneve,,46.1433344,10.9667864
+node/1526314493,restaurant,La Salera,,46.2917338,11.4624067
+node/1532731021,restaurant,Ristorante Pizzeria Centrale,,46.0534021,11.4579954
+node/1552327070,restaurant,Alpino,,46.0727197,11.0585684
+node/1562362389,restaurant,,,45.8306375,10.5394219
+node/1583728920,restaurant,Pizzeria Ristorante Bar I Volti,,46.2835809,11.4857534
+node/1584766272,restaurant,Malga Pozza,,46.3537542,11.6824337
+node/1585221252,restaurant,Ja Vito,,46.3944645,11.666888
+node/1585221511,restaurant,Ristorante Pizzeria Sas da Rocia,,46.3957595,11.6666167
+node/1605643365,restaurant,Mosegot,,46.1303376,11.2038207
+node/1608971475,restaurant,Trattoria Pizzeria Smorza,,46.0176482,11.107122
+node/1615509924,wilderness_hut,Malga Zoccolo di Sotto,1657,46.4031875,10.8671752
+node/1633007183,restaurant,La Maison de Filip,,46.0711211,11.1247229
+node/1633007340,restaurant,Para Todos,,46.0715283,11.1246427
+node/1638473456,restaurant,Bosco Dei Pini Neri,,45.8657184,11.0800039
+node/1651682414,restaurant,Bottega Moderna,,46.0667451,11.1224412
+node/1657651946,restaurant,La Casa del Vino,,45.8849033,11.0093981
+node/1660847434,restaurant,Bar Ristorante Pizzeria Da Romano,,46.3371156,11.1151363
+node/1668977193,restaurant,Taverna da Giovanni,,45.9162514,11.0298545
+node/1668978967,restaurant,To New York,,45.8958902,11.015234
+node/1669284834,restaurant,Il Gusto Pizza&Drink,,46.0715407,11.1248679
+node/1706749989,restaurant,Agritur Galeno,,45.9198423,11.3284843
+node/1706915650,restaurant,Ristorante Pizzeria Corsaro,,45.8853148,10.8435768
+node/1717104002,restaurant,Pizza Granda,,46.3926085,11.1178255
+node/1728872277,restaurant,Pizzeria Al Porto,,45.8694247,10.8764618
+node/1738020431,restaurant,Giardino,,45.8782766,10.890251
+node/1769563648,restaurant,Pizzeria Acquaviva,,45.981009,11.1164811
+node/1772818754,restaurant,Al Pian ristorante - pizzeria,,45.9791938,11.2374956
+node/1776026284,restaurant,Bar Ristorante Baita al Verle,,45.9579397,11.3273153
+node/1777801949,restaurant,Baita Montesel,,46.0450875,11.0658997
+node/1780453075,restaurant,La miniera dei sapori mocheni,,46.0828194,11.2304885
+node/1782401360,restaurant,3 Cime,,46.2659931,11.0606022
+node/1791527806,restaurant,Roma,,45.9776691,11.0913978
+node/1794791095,restaurant,,,46.3280563,10.8709878
+node/1806514148,restaurant,La Sgeva,,45.9168784,11.168811
+node/1815133390,restaurant,Osteria Cima Capi,,45.8656358,10.8054919
+node/1821220620,restaurant,Osteria Palazan,,46.3651749,11.0355005
+node/1836979545,alpine_hut,Malga Vael,2028,46.4245333,11.6366551
+node/1838686233,restaurant,4 Stagioni,,45.8427434,11.0075746
+node/1865600396,restaurant,Malga Valfontane - Agriturismo,,46.1046888,11.6657079
+node/1872610698,restaurant,Agritur Bellaria,,45.9575341,11.033134
+node/1886935426,restaurant,Rifugio Viote,,46.0232713,11.0377754
+node/1889561976,restaurant,Sushoku,,45.8876603,10.8439069
+node/1889564709,restaurant,PizzaExpress,,45.8909775,10.8456847
+node/1889566663,restaurant,Restorante i Memento,,45.8869684,10.8399072
+node/1889567042,restaurant,Osteria la Contrada,,45.8866025,10.839592
+node/1889573421,restaurant,Osteria il Gallo,,45.8848892,10.8384724
+node/1889573422,restaurant,Ristorante Bellavista,,45.8841383,10.8406604
+node/1889573423,restaurant,Ristorante Sole,,45.8842388,10.839989
+node/1889737945,restaurant,,,46.0393256,11.0580197
+node/1904436954,restaurant,Ristorante Maffei,,45.8850994,10.8408412
+node/1904668666,restaurant,Al Vaticano,,45.8857996,10.8415205
+node/1904668687,restaurant,OsteRiva,,45.885523,10.839031
+node/1905543727,restaurant,Antica Stella,,46.0054795,11.1267956
+node/1915825371,restaurant,La Grotta,,46.4210171,11.6737903
+node/1916510766,restaurant,La Botte,,46.1524755,10.7666085
+node/1934722400,restaurant,Il Cantuccio del gusto,,46.3551647,10.6618079
+node/1952320243,restaurant,Agriturismo Broch,,46.1934559,11.9068262
+node/1977210081,restaurant,Alla Stella,,46.0695816,11.2062878
+node/1979796467,restaurant,Terminal Ro.La.,,46.1032926,11.0970986
+node/1984418523,restaurant,L'Alpe,,45.91755,11.1913987
+node/1998966136,restaurant,Il Libertino,,46.0708858,11.112497
+node/1998966141,restaurant,Trattoria Piedicastello,,46.0710211,11.1128044
+node/2056798304,restaurant,,,46.301825,10.8118044
+node/2078208282,restaurant,B&B Pizzeria La Pineta,,45.8236297,10.9606639
+node/2079120735,restaurant,Agritur La Lanterna,,46.1721967,11.1286295
+node/2084835952,restaurant,Trattoria La Sosta,,46.080953,11.0432709
+node/2094237771,restaurant,Ristorante La Madia,,46.0049343,11.1968545
+node/2109610107,restaurant,,,45.7815762,10.9412777
+node/2109610111,restaurant,Etrusca,,45.7807794,10.9411865
+node/2109649874,restaurant,Snow thrill,,46.379184,11.7856185
+node/2113094106,restaurant,Pizzeria Ristorante Al Ponte,,46.0692978,11.2246489
+node/2119128327,restaurant,Mensa Risto 3,,46.0017362,11.1244117
+node/2131943740,restaurant,Tre3,,46.1755074,11.0525108
+node/2133570092,restaurant,Al Centro,,46.419847,11.1397232
+node/2151026707,restaurant,OV.ER pizzeria,,45.8886264,11.0443884
+node/2159341029,restaurant,Trattoria Girarrosto,,45.882988,11.011319
+node/2159359633,restaurant,Trattoria Bar Christian,,45.8905542,11.0438802
+node/2159362024,restaurant,Osteria del Pettirosso,,45.8915814,11.0437522
+node/2178895823,restaurant,Locanda delle tre chiavi,,45.8862121,11.0089243
+node/2204578470,restaurant,Golf Hotel,,46.404006,11.6095668
+node/2251294134,restaurant,La Sidreria,,46.3192719,11.0960193
+node/2263411770,restaurant,Prada Sport,,46.0385754,11.0581013
+node/2297463811,restaurant,Speck Stube,,45.8857387,10.732532
+node/2298680695,restaurant,Locanda Ampola,,45.8643066,10.646186
+node/2305973682,restaurant,,,45.8808276,10.7505919
+node/2335415593,restaurant,Ristorante Alla Lega,,45.9195856,10.8851655
+node/2343770839,restaurant,Osteria Cà dei Giosi,,46.0980034,11.0178121
+node/2348266717,restaurant,Ristorante Villetta Annessa,,45.8865189,10.8382431
+node/2351214881,restaurant,Da Bruno,,46.1065587,11.1085604
+node/2364540524,restaurant,Campo Base,,46.1645327,11.0028361
+node/2367677548,restaurant,Pizzeria Romantica,,46.1631238,11.0029148
+node/2375738975,restaurant,Locanda Borgo Antico,,45.8661179,10.5761265
+node/2378438981,restaurant,Ristorante Pizzeria Pellegrini,,46.028979,10.7239332
+node/2378439248,restaurant,Pizzeria Pub Fermata 97,,46.0288449,10.7238527
+node/2381700948,restaurant,Ristorante Pizzeria Antico Focolare,,46.2262578,10.8258867
+node/2394661692,restaurant,La terrazza,,46.1745705,11.8270018
+node/2394661695,restaurant,L'antica rosa,,46.17637,11.8289012
+node/2397156968,restaurant,La Talpa 3.0,,46.062255,11.1147785
+node/2405762103,restaurant,Cipriano,,46.0449613,10.9833362
+node/2412844972,restaurant,Bar ristorante pizzeria Kristall,,46.3140417,10.810332
+node/2412844973,restaurant,Ristorante Pizzeria Lago Rotondo,,46.3147161,10.8141622
+node/2416095112,restaurant,,,45.8547529,10.5707095
+node/2422074148,restaurant,Pizzeria Al Cardo,,46.1586363,10.7627012
+node/2425758524,restaurant,Daniel pub & pizza,,46.303221,10.808986
+node/2425758525,restaurant,dai Angioi,,46.3034875,10.8097078
+node/2430536739,restaurant,Agritur Maso alle Rose,,46.0135665,10.8212288
+node/2437416069,restaurant,Palla di Neve,,46.2624241,10.5895788
+node/2437695832,restaurant,Agritur Malga Secine,,46.3992816,11.6097006
+node/2443359624,restaurant,Albergo Ristorante Aurora,,45.7768117,11.1233211
+node/2458634962,restaurant,,,45.8063956,10.5507276
+node/2468231682,restaurant,La Vecchia Signora 2.0,,46.1570726,11.1529912
+node/2484983368,restaurant,Il Castello,,45.920144,10.8835177
+node/2486092346,restaurant,Ristorante Novecento,,45.8907625,11.0378818
+node/2487115306,restaurant,Ristorante & Pizzeria,,45.9307602,10.8229856
+node/2498881438,restaurant,Pizzeria al Porto,,45.8791785,10.8732371
+node/2517263790,restaurant,Al Ghiottone,,45.7589705,11.0019383
+node/2517370193,restaurant,Boss Pizzeria Ristorante,,45.7593844,11.0028032
+node/2556500415,restaurant,Twist - Pizza 'n More,,46.0561137,11.1209065
+node/2556841544,restaurant,Maso Finisterre,,46.0838336,11.0987207
+node/2573595819,restaurant,Pizzeria Ristorante Marosi,,45.9147346,10.9050362
+node/2578549614,restaurant,Hi Poke,,46.0622349,11.1150025
+node/2589666378,restaurant,Wok For You,,46.0885229,11.1175801
+node/2598641850,restaurant,Ski Bar,,46.1602069,11.0013525
+node/2621304850,restaurant,Agritur alle Gorghe,,46.1317785,11.1394211
+node/2637298757,restaurant,Zushi,,46.075184,11.1249367
+node/2638148201,restaurant,Biang Biang Ramen,,45.9077164,11.0409848
+node/2638148558,restaurant,SushyAmo,,45.8890493,11.0335328
+node/2647941985,restaurant,Biergarten Mönchshof,,46.0695811,11.2200064
+node/2673313358,restaurant,Locanda Le Due Travi,,46.0715635,11.1248756
+node/2673313362,restaurant,Caracolito,,46.0714373,11.1248609
+node/2683658998,restaurant,Ristorante da Pierino,,46.0458592,10.5119776
+node/2706066321,restaurant,Thai Break,,46.0688235,11.1287824
+node/2717008013,restaurant,Ristorante Pizzeria All'Antica Segheria,,46.1701203,10.7647325
+node/2836548425,restaurant,Và Pensiero,,46.0340651,11.5761963
+node/2874104631,restaurant,Alpino,,45.8856506,10.8403278
+node/2874104632,restaurant,Kapuziner am See,,45.8864142,10.8415494
+node/2875736484,restaurant,Pizzeria Vecchia Mori,,45.851972,10.9782596
+node/2881985266,restaurant,Da Demetrio,,46.21664,11.1192053
+node/2882931677,restaurant,Borgo Antico,,45.8553973,10.986391
+node/2887488211,restaurant,San Marco cafè,,45.8867333,10.8422942
+node/2888545663,restaurant,,,45.782778,11.1183157
+node/2889159347,restaurant,Alla Lanterna,,45.790427,11.1121017
+node/2896975084,restaurant,BarTrattoria Alla Stazione,,45.7341645,10.9576676
+node/2929049984,restaurant,Pizzico,,46.1405816,10.9634598
+node/2929049985,restaurant,Bar L'Aquilone,,46.1406058,10.9639212
+node/2929050449,restaurant,,,46.1382338,10.9587549
+node/2932894308,restaurant,Da Neni,,45.8540687,10.9680409
+node/2946662243,restaurant,La Pintadera,,45.8880018,11.0446311
+node/2946662248,restaurant,Locanda al Castello,,45.8877772,11.0445568
+node/2957454881,restaurant,Malga Roncac,,46.3821423,11.6511042
+node/2967327998,restaurant,Agriturismo la Stropaia,,46.1283409,11.2585894
+node/2967453836,restaurant,Pizzeria da Sergio,,46.135143,11.249319
+node/2967472283,restaurant,Alpino,,46.1320162,11.2435173
+node/2991891922,restaurant,Osteria Heidi,,46.4762847,11.7418012
+node/2997327159,restaurant,Ristorante La Scarpetta,,45.8789219,10.8735935
+node/3002405385,restaurant,Lo Scoglio,,45.8170422,10.9543924
+node/3002405388,restaurant,Malga Campo,,45.8109862,10.9098849
+node/3009148942,restaurant,Al Mattino,,46.0377752,11.0028633
+node/3046567181,restaurant,Ristorante Bar Da Meto,,46.2648612,11.8047844
+node/3076630067,restaurant,Pizzeria Marco,,45.8918317,11.0421243
+node/3079108426,restaurant,,,46.1516175,11.5161569
+node/3090950106,restaurant,Ciccia & birra,,46.0121323,11.1394703
+node/3096744951,alpine_hut,Rifugio Predaia «ai Todes ci»,1400,46.3149489,11.1523097
+node/3096744952,restaurant,Ristorante Rifugio Predaia «ai Todes ci»,1400,46.3151402,11.1522616
+node/3101758142,restaurant,Al Casello,,46.0353128,11.1262638
+node/3103277271,restaurant,Filippone,,46.0506544,11.1249388
+node/3123664691,restaurant,L'Ora,,45.878627,10.8578006
+node/3124738891,restaurant,Acqua Blu,,46.040627,11.1115919
+node/3125868985,restaurant,Anna,,46.3332772,10.8882376
+node/3127526120,restaurant,Ristorante Pizzeria La Spleuza,,46.3317876,10.8856668
+node/3138146062,alpine_hut,Malga Bassa di Presson,,46.2854337,10.8678652
+node/3138470379,alpine_hut,Malga Alta di Presson,,46.2810552,10.8571771
+node/3147990362,restaurant,Vecchia Torbole Lunch & Dinner,,45.8687205,10.877307
+node/3147990364,restaurant,Al Pescatore,,45.8689986,10.8770286
+node/3186767417,restaurant,Locanda Ridevert,,46.0344296,10.7504333
+node/3234670872,restaurant,,,46.0693022,11.6230108
+node/3244177632,restaurant,La Pieve,,46.2886055,11.461516
+node/3245914891,restaurant,Des Alpes,,46.2902152,11.4781974
+node/3284937023,restaurant,Ristorante Pizzeria Picola Majon,,46.4403484,11.6925633
+node/3302466499,restaurant,Te Cevena,,46.4760902,11.7714905
+node/3302466500,restaurant,Scoiattolo,,46.4768734,11.7716989
+node/3302466501,restaurant,Stua dei Ladins,,46.4771416,11.7648283
+node/3317504695,alpine_hut,Capanna Biaena,1580,45.8839736,10.9698623
+node/3356952305,restaurant,Baita Paradiso,,46.3879595,11.7872559
+node/3385214815,restaurant,Aqua,,45.8687661,10.8766934
+node/3396099194,restaurant,Bar Bistrò Maloja,,45.9196912,10.8880421
+node/3430680534,restaurant,Rifugio Paion del Cermis,,46.2421998,11.5039658
+node/3439191624,restaurant,Orso Grigio,,46.427403,11.1583444
+node/3457477484,restaurant,Viel dal Pan,,46.4731949,11.8680019
+node/3475056739,restaurant,Galloway,,46.0205691,11.1270403
+node/3488750202,restaurant,Contro Break,,46.0445702,11.1208798
+node/3580612001,restaurant,Nuovo 900,,45.884776,10.8406478
+node/3590582368,restaurant,Miralago,,45.8017413,10.535334
+node/3607707620,restaurant,Ristorante San Giorgio,,46.0531114,11.457961
+node/3625778965,restaurant,Chalet da Gino,,46.1674768,10.7083345
+node/3629224175,restaurant,Pizzeria,,45.8249203,10.5317305
+node/3659274572,restaurant,Osteria Via dell'uncino,,45.94078,11.2505319
+node/3674418127,restaurant,Pizzeria da Bonny,,46.4202833,11.6733784
+node/3683404313,alpine_hut,Rifugio Orti,,46.2901586,10.813209
+node/3699585392,restaurant,Drago d'Oro,,45.8878133,11.0447676
+node/3714819729,restaurant,Risto3 Ristorante Self,,46.1180697,11.0971911
+node/3718861628,restaurant,Le Rose - Ristorante Bed & Breakfast,,46.071251,11.4921408
+node/3730996108,restaurant,Aurora al l'isteiat,,46.039492,11.3000494
+node/3734579885,restaurant,Stube Valzurg,,46.0438957,11.2788817
+node/3737813836,restaurant,Old Wild West,,46.0600953,11.1148284
+node/3741391076,restaurant,Agritur Malga Bassa,,46.295029,10.7647844
+node/3752066674,restaurant,Dall'Ersilia,,46.0028797,11.3690372
+node/3753296635,restaurant,Piccola Stube - Ristorante Pizzeria,,46.1789039,11.0695364
+node/3755956939,restaurant,Sopra la Panca,,46.0890341,11.1208851
+node/3755958317,restaurant,Ristorante bar Campregheri,,45.9842775,11.2384385
+node/3779740709,restaurant,Stube del Galletto,,46.0881953,11.0654843
+node/3787700764,restaurant,Lo Sfizio Caffè Pizzeria Bar,,46.3762151,11.6619454
+node/3802448596,restaurant,Ristorante Pizzeria Albergo Dolomiti,,46.0429825,10.7682521
+node/3803736242,restaurant,Villa Bertagnolli,,46.0115326,11.1395582
+node/3815857590,restaurant,Margherita,,45.895549,11.0371343
+node/3833840613,restaurant,Mister Pizza Caffè,,46.0598499,11.1198522
+node/3849792216,restaurant,Golden India,,46.0776269,11.1162394
+node/3907919130,restaurant,Albergo Lago Santo,,46.1971425,11.2055669
+node/3910683995,restaurant,Ristorante Pizzeria Al Torchio,,46.0668107,11.5219365
+node/3922184631,restaurant,Agriturismo Ai Castioni,975,46.1469764,10.9743769
+node/3922201250,restaurant,Rifugio Dosson,,46.1535033,11.0159703
+node/3922251347,restaurant,Rifugio Meriz,,46.1638058,11.0506327
+node/3927432374,restaurant,La Taverna,,46.0150478,11.2865162
+node/3932910252,restaurant,Pizzeria Ristorante Vulcano,,46.0518391,11.4566525
+node/3952806157,restaurant,Al Volt,,46.0603942,11.2408092
+node/3980658683,restaurant,Cane' in Fiore,,46.1197556,11.2609673
+node/4003293513,restaurant,Pizzeria Fenice,,45.8945598,10.8489494
+node/4005395601,restaurant,Ristorante Da Richetto,,45.8403927,10.6861084
+node/4005468650,restaurant,Ristorante Pizzeria Pieve,,45.8881376,10.7317127
+node/4013446318,restaurant,Terrazza sul Leno,,45.8869115,11.0435634
+node/4013904561,restaurant,Magna Rimini,,46.354775,10.6625851
+node/4017508294,restaurant,Terra Nera,,45.8501583,10.9803668
+node/4018493313,restaurant,Pizzeria Luisa,,45.7963243,11.0246946
+node/4020650514,restaurant,Risotteria Rustichel,,45.8967549,10.7171638
+node/4057342002,restaurant,,,45.8156563,11.0786105
+node/4065650341,restaurant,,,46.1133851,11.619594
+node/4106086316,restaurant,Carnera,,45.7568328,11.006691
+node/4123999073,restaurant,al Sole,,46.3159952,10.8019185
+node/4127975942,restaurant,Pizzeria Taverna Roma,,46.0541241,11.4565866
+node/4135182348,restaurant,Ristorante Pizzeria Dolomiti,,46.0556181,11.4635318
+node/4147661851,restaurant,Pizzeria Crosara,,46.0650309,11.6334656
+node/4165217023,restaurant,Panem,,45.8867104,10.8420347
+node/4185694012,restaurant,Sottovento,,45.8687266,10.8776327
+node/4185984948,restaurant,Al Volto,,46.0509082,11.4109013
+node/4187766091,restaurant,Madonna delle Vittorie,,45.8801723,10.8749659
+node/4198929699,restaurant,Centrale,,45.8693364,10.8766261
+node/4202838209,restaurant,,,46.06252,11.5155508
+node/4202862135,restaurant,Chardonnay,,46.0648051,11.5066355
+node/4202862139,restaurant,Sefri pizza&more,,46.0652977,11.5059896
+node/4208866263,wilderness_hut,Baito Campivelo,1809,46.0168288,11.4883649
+node/4214487426,restaurant,Risto 3 Ristorante Self Le Valli,,46.0559298,11.473996
+node/4226761906,restaurant,Malga Vallazza Agritur,1935,46.3413748,11.7904642
+node/4233956344,restaurant,Vecchia Scuola,,46.1418666,11.7159505
+node/4234147906,restaurant,Andiamo,,46.3288004,11.0234208
+node/4265067225,restaurant,Pizza Doc,,46.2174477,11.1257522
+node/4286651810,restaurant,Pata Pata,,46.0045133,11.2612059
+node/4313423619,restaurant,l'Albero,,45.8858159,10.8409132
+node/4315381290,restaurant,Lago d'oro,,45.8858877,10.8393563
+node/4315863098,restaurant,Alla Veccia Macina,,46.3163649,10.7744696
+node/4318695290,restaurant,Ristorante Pizzeria Daniel Zen,,46.4216236,11.6717039
+node/4331363662,restaurant,Albergo Ristorante Conca d'Oro,,46.0171931,11.63573
+node/4332875765,restaurant,La Passeggiata - BOTTEGA della PIZZA,,45.8729177,10.7675527
+node/4336800368,restaurant,La Primoteca,,46.3155825,11.5972855
+node/4336804632,restaurant,Pizzeria La Vecchia fornace,,46.2630641,11.8009592
+node/4340348765,restaurant,Albergo ai Laghi,,46.1115246,11.0458218
+node/4356605691,restaurant,Vecchia Canonica,,46.351222,10.9123086
+node/4379398022,restaurant,L'Anfora,,46.0982231,11.1161873
+node/4390451735,restaurant,Agriturismo Bontempelli,,46.3131199,10.7846341
+node/4393058908,alpine_hut,Rifugio Doss dei Cembri / Doss dei Gembri,2316,46.3806888,10.6596574
+node/4394168358,restaurant,Caminetto,,46.3517077,10.911614
+node/4401061892,restaurant,Baita Cianci,,46.4349984,11.8062459
+node/4401791570,restaurant,Ristorante pizzeria Al Lago,,45.8737157,10.7648135
+node/4414912268,restaurant,Osteria La Torre,,45.8889884,10.73265
+node/4415028860,restaurant,Ristorante al Molin,,46.4165336,11.0845204
+node/4455036997,restaurant,Valsugana,,46.063117,11.2337298
+node/4456498581,restaurant,Pizzeria Bar Ristorante Al Lago,,45.883536,10.7315854
+node/4510120958,restaurant,Bar Pizzeria Niagara,,46.309876,10.7466287
+node/4545112893,restaurant,Hotel Margherita,,46.0299117,11.2567626
+node/4545112894,restaurant,Pizzeria Hotel Margherita,,46.0300741,11.2559492
+node/4582441585,restaurant,Bar Pizzeria Excelsior,,46.2917532,11.4595574
+node/4582692759,restaurant,El Molin,,46.2920844,11.4595289
+node/4586898946,restaurant,Angelo D'Oro,,46.2906381,11.4600157
+node/4657167767,restaurant,Trattoria Dolce Spina,,46.2150199,11.1194014
+node/4695403491,restaurant,Pizzeria Cantuccio,,46.1944253,11.1329064
+node/4707362017,restaurant,Pizzeria La Civetta,,46.1412013,10.7732938
+node/4742370821,restaurant,Malga Nambi,,46.1360805,10.8092102
+node/4746320522,restaurant,Sushiko,,45.8827933,10.8535154
+node/4751825049,restaurant,Negritella,,46.2601663,10.5865754
+node/4751825063,restaurant,Edelweiss,,46.2596997,10.5851429
+node/4776882840,restaurant,Bar Sirio,,46.0920081,11.1039735
+node/4776882851,restaurant,Bar Spazio Prada,,46.0909844,11.1066342
+node/4839944366,restaurant,Trattoria Vecchio Porto,,45.6984751,10.9271374
+node/4859636763,restaurant,38 Trentootto,,46.0872912,11.1075455
+node/4874793589,restaurant,Dogali Burgers,,45.8901846,11.0406029
+node/4941972580,restaurant,Restaurant camping val di sole,,46.3588604,10.6812185
+node/4942392724,restaurant,Pizzeria Lanterna - Brew and Pub,,46.0953085,11.2336528
+node/4945613322,restaurant,Ristorante Lago d'oro,,45.8859215,10.839305
+node/4949207822,restaurant,La Montanara,,46.4766901,11.7735042
+node/4952166591,restaurant,Ichiban Ramen,,46.0631109,11.123549
+node/4967943605,wilderness_hut,Malga Viosa Bassa,,46.1549439,11.6615279
+node/4967947755,wilderness_hut,Malga Viosa Alta,,46.1491931,11.6561179
+node/4986953954,restaurant,Trento Alta,,46.0653954,11.1020722
+node/5000794683,restaurant,Ristorante Da Bianca,,45.972831,10.5601534
+node/5001243075,restaurant,Ristorante Boazzo,,46.005518,10.5176426
+node/5004880452,restaurant,Trattoria Castelbarco,,45.740081,10.9527518
+node/5013934509,restaurant,Agritur el Mas,,46.3829421,11.6622268
+node/5017837055,restaurant,Al Portico,,46.098221,11.0453847
+node/5026846255,restaurant,Locanda Margon,,46.0245772,11.1087943
+node/5069371904,restaurant,Il Doge,,45.8875765,11.0450566
+node/5115929421,restaurant,Benacense,,45.8851749,10.8393578
+node/5129934767,wilderness_hut,Baito del Gusto,,46.0255962,11.1989012
+node/5194931273,restaurant,Ristorante Pizzeria Cima d'Oro,,45.8745199,10.7663421
+node/5216237021,restaurant,Fabbrica di Pedavena,,46.008438,11.291992
+node/5239187880,restaurant,Sushiland,,46.0858544,11.1170965
+node/5243991946,restaurant,IL Catenaccio,,46.0187145,10.8111218
+node/5277775867,restaurant,Ristorante & Pizzeria Rudy,,45.899568,10.8550389
+node/5282499545,restaurant,Agritur Mirella,,46.4352737,11.0300039
+node/5300784172,restaurant,Osteria del tempo perso,,46.0104028,11.3013112
+node/5306526859,restaurant,Bioessere,,45.9124687,10.8756088
+node/5306731417,restaurant,Salsamenteria Capolini,,45.8849165,10.8405329
+node/5325769522,restaurant,Lume17,,46.2319335,10.8277169
+node/5330541921,restaurant,Bucaneve,,46.3202338,10.8358557
+node/5330542021,restaurant,Rifugio Alpe Daolasa 2045,,46.2807686,10.832525
+node/5331063721,alpine_hut,Rifugio Pradalago 2100,,46.2472896,10.8130599
+node/5352766113,restaurant,Pizzeria Ristorante La Cantinetta,,46.3029796,11.4544453
+node/5376806032,restaurant,Agritur La Dasa,,45.8978114,10.7080598
+node/5377859075,restaurant,Peter Brunel,,45.8873217,10.8789638
+node/5377859209,restaurant,Garda Stube,,45.8994402,10.8362678
+node/5377870215,restaurant,Al Fortino,,45.878252,10.8865031
+node/5378205766,restaurant,Ristorante Pizzeria La Villa,,45.8780831,10.8887228
+node/5396534652,restaurant,Al Castel,,45.9401668,11.1098939
+node/5398730625,restaurant,Ristorante Bellavista,,46.0466414,10.8879882
+node/5411852730,restaurant,El Pael,,46.476819,11.7685177
+node/5446414999,restaurant,C'era una volta,,46.0362246,10.728761
+node/5506653050,restaurant,,,46.4124615,11.1854836
+node/5525429531,restaurant,Ca dei Veli,,45.9851348,11.0722336
+node/5624428609,restaurant,La Roda,,46.1590439,10.7639145
+node/5625483108,restaurant,Val Udai,,46.457565,11.700638
+node/5658295404,restaurant,Rifugio al Faggio,,45.9440777,10.7428628
+node/5662788361,restaurant,,,45.9919842,11.2619734
+node/5724991017,restaurant,Gilda Ristorante Pizzeria,,45.9955902,11.2673839
+node/5731330243,restaurant,"Agriturismo ""Le Mandre""",,46.1685851,11.298157
+node/5754402154,restaurant,Trattoria del Montanaro Esigente,,46.4387009,11.1385321
+node/5763039553,restaurant,Doria,,45.8779734,10.8913483
+node/5768217118,restaurant,"Albergo Ristorante Alpino ""Da Tullio""",,45.7371773,10.8818648
+node/5769878552,restaurant,,,45.7357398,10.8819616
+node/5788019253,restaurant,El Tobia,,46.4201298,11.6736526
+node/5798934353,restaurant,Dolomiti,,46.4167972,11.2076991
+node/5801785340,restaurant,Pizzeria Nuova Garda,,45.8724292,10.8743173
+node/5803734180,restaurant,La Cantinota,,46.4387062,11.1372541
+node/5817248052,restaurant,Arciduca Beer Garden e Ristorante,,45.9198532,10.8831319
+node/5827307719,wilderness_hut,Malga Fornasa Alta,,46.1774345,11.4091857
+node/5844386198,restaurant,Ristorante Fontanino,,46.339548,10.6180434
+node/5852010719,restaurant,Ristorante pizzeria Commercio,,45.8851738,10.841491
+node/5852016632,restaurant,Ristorante pizzeria Mediterraneo,,45.8851755,10.8415945
+node/5852942369,restaurant,SúYoshì,,45.8671589,11.0128128
+node/5873350364,restaurant,Pizzeria Cavazzani,,45.7354761,10.9403574
+node/5905821608,restaurant,Hotel Compet,,46.0390815,11.2996182
+node/5905898090,restaurant,Ristorante Al Cacciatore,,46.031636,11.3417425
+node/5911749189,restaurant,Residence Alaska,,45.9134147,11.1796445
+node/5926208990,restaurant,Pizzeria Vignola,,45.734643,10.9417713
+node/5939189358,restaurant,Ristorante da Anita,,46.2631786,11.7973971
+node/5939650514,restaurant,Rododendro,,46.3107356,10.7561227
+node/5942552135,restaurant,Albergo Cascata di Nardis,,46.1677492,10.7137996
+node/6031965474,restaurant,BaldoStube,,45.817544,10.9569491
+node/6038788911,restaurant,Hotel Pace 1954,,45.9198022,10.8837856
+node/6040757885,restaurant,Il Bosc del Meneghì,,45.8628032,10.7476248
+node/6044816338,restaurant,"Ristorante-pizzeria ""La Presef""",,46.3512594,10.6934714
+node/6044973868,restaurant,Hotel Sport,,45.889375,10.7311652
+node/6096089813,restaurant,Spaghetteria moderna,,45.9196749,10.8875809
+node/6110547754,restaurant,La Botte,,46.260362,10.5848062
+node/6110585344,restaurant,Il Focolare,,46.2599996,10.5849951
+node/6184192658,restaurant,La Tana dell'Orso Yoghi,,46.3734939,11.0681516
+node/6203284000,restaurant,La stalla del nonno,,46.4774961,11.7408017
+node/6256572712,restaurant,L'Ostaria da Besic,,46.477307,11.7702986
+node/6285603913,restaurant,Agritur Calcaiol,,46.0834468,11.144134
+node/6341344169,restaurant,L'Olimpo,,46.3485537,10.9095281
+node/6341426156,restaurant,,,46.236962,10.8360842
+node/6419411186,restaurant,Pronto Pizza,,45.8518049,10.9794142
+node/6438863499,restaurant,Terramia,,46.0698645,11.126524
+node/6525469986,restaurant,Il Re della Busa,,45.8829458,10.8464717
+node/6525475785,restaurant,Antiche Mura,,45.8870079,10.8385742
+node/6536659765,restaurant,Bella Rovereto,,45.8921243,11.0414851
+node/6551131062,restaurant,"Albergo ""Al Cacciatore""",,46.1976868,11.8649048
+node/6574523149,restaurant,Aquila D'oro,,45.9918138,11.2631157
+node/6592652529,alpine_hut,Rifugio Giorgio Graffer al Grostè,2261,46.2196548,10.8894126
+node/6594064625,alpine_hut,Rifugio Boch,2085,46.2260393,10.8754306
+node/6610752260,restaurant,Pizzeria Vittoria,,46.0046644,11.1991056
+node/6641621398,restaurant,Bar Ristorante Alessia,,46.1110005,11.3186955
+node/6651403540,restaurant,Pizzeria Rustica,,46.4191165,11.1408879
+node/6651459720,restaurant,Osteria Casa de Gentili,,46.3657251,11.0746363
+node/6657331381,restaurant,Pioppeto,,46.1090357,11.1073045
+node/6681761404,restaurant,Hope Valley,,46.0059869,11.6572243
+node/6704376087,restaurant,Bar Ristorante La Mirandola,,46.2674099,10.5907318
+node/6709617864,restaurant,Ristorante Valbiolo,,46.2812353,10.5797399
+node/6710263604,restaurant,,,46.2571886,10.582732
+node/6712688795,restaurant,Maso la Betulla,,46.1623407,11.0879262
+node/6735435456,restaurant,Ristorante Maso Limarò,,46.0607411,10.9267235
+node/6736161992,restaurant,,,46.2589513,10.5836776
+node/6739988301,restaurant,tobià,,46.4765359,11.7406188
+node/6769686080,restaurant,Baita Zeni,,46.1811024,11.8185459
+node/6771742809,restaurant,Taverna Clara,,45.9207916,11.2589288
+node/6778892588,restaurant,Maso Naranch,,45.8863838,10.917537
+node/6818200786,restaurant,Ristorante Sud Cucina e Pizza Napoletana,,45.8846751,10.8404197
+node/6856716373,restaurant,La Scala Bistrò /=\,,45.883007,10.8542315
+node/6895631721,restaurant,La Pineta,,45.9833467,11.2662987
+node/6953660212,restaurant,Tentazioni,,46.0365209,11.1295141
+node/7054924421,restaurant,Hotel Rech-Hof Sayonara,,45.9174562,11.1869697
+node/7060626210,restaurant,,,46.5080846,11.7675862
+node/7240881786,restaurant,Baita Ischia,,46.4760027,11.7475985
+node/7240893487,restaurant,Kaiserstube,,46.4770408,11.769553
+node/7248487285,restaurant,Restaurant Pizzeria Kamerloy,,46.4740465,11.7385407
+node/7271768687,restaurant,Fienile Monte,,46.5035138,11.7496342
+node/7379484858,restaurant,Locanda 2 Camini,,46.1260759,11.244012
+node/7527311775,restaurant,Carpe Diem,,46.1276902,11.1166853
+node/7546079259,restaurant,Miramonti Pizzeria Cucina B&B,,45.8209859,10.9670439
+node/7638616724,restaurant,Magnabò,,46.1663598,10.7500372
+node/7661120689,restaurant,Mensa scolastica,,46.0064861,11.1292222
+node/7711722633,restaurant,Ristorante al Laghetto,,46.0946413,11.4797349
+node/7770051030,restaurant,,,46.4638248,11.8613635
+node/7778313903,restaurant,Malga Baessa,,46.1476067,11.459201
+node/7818079599,restaurant,De Eccher,,46.3535903,11.043767
+node/7827513245,restaurant,Osti,,45.8710038,10.8754346
+node/7858386423,alpine_hut,Malga Mondent alta,1913,46.3906833,10.893344
+node/7881055585,restaurant,Rifugio Scoiattolo,,46.3703543,10.6610788
+node/7928997808,restaurant,Hong Kong,,45.8828506,11.0366781
+node/7944379443,restaurant,Hotel Genzianella,,46.3193129,10.8430204
+node/7944379453,restaurant,Bio Hotel Benny,,46.319537,10.8422533
+node/7960116936,restaurant,Al Randagio Pub Pizza,,46.0860989,11.2024281
+node/7995383157,restaurant,Castel Corona,,46.2864106,11.0349273
+node/8151727207,wilderness_hut,Baita Cioc,,46.1646383,10.6394213
+node/8197332146,restaurant,Putipù,,45.8882496,11.0422691
+node/8232536591,restaurant,Waikiki Poké Trento,,46.0666413,11.1178894
+node/8238391290,restaurant,La Casina,,45.9614584,10.9516415
+node/8490586246,restaurant,Sciabola,,45.8704689,10.8762222
+node/8506320843,restaurant,Pizzeria Diana,,45.9848783,10.6707847
+node/8506544449,restaurant,Borel,,45.9360056,10.6387674
+node/8567856108,restaurant,Europa,,46.4182559,11.2063529
+node/8599711278,wilderness_hut,,,46.0767529,10.858576
+node/8635123571,restaurant,Da Elda Natural Retreat Hotel Ristorante Bar,,45.9135211,10.7279552
+node/8699463843,restaurant,Chalet Fiat,,46.2225599,10.8483382
+node/8751118089,restaurant,Le Marmotte,,46.456952,11.7957741
+node/8756602282,restaurant,Baita Pradel,,46.4915504,11.7800141
+node/8804706648,restaurant,Pizzeria Capriccio,,45.914196,11.0320522
+node/8806886940,restaurant,Zuin,,45.8869488,10.8454345
+node/8875762282,restaurant,Biergarten Parco Masere,,46.0860448,10.7294
+node/8879333875,restaurant,Sapore di Stelle Bistrò,,46.0943192,11.1198788
+node/8983031820,restaurant,BlackSheep lab,,46.0682179,11.1212414
+node/8986484117,restaurant,Orologeria M. Groppa,,46.0686162,11.1247684
+node/8998454403,restaurant,Pizzeria Miravalli,,46.205505,11.9274965
+node/8998586414,restaurant,Bike Farm Linfano,,45.8863145,10.8829486
+node/9019234103,restaurant,Taproom Riva del Garda,,45.8875668,10.8406894
+node/9024229317,restaurant,Agriturismo Verdecrudo,,45.9927438,11.2490468
+node/9025170168,restaurant,Lanterna Verde,,46.1807047,11.8417486
+node/9025816144,restaurant,Dolce Pizza,,45.8877794,10.84576
+node/9032802946,restaurant,Bar Sport,,45.9180727,11.0196282
+node/9050248496,restaurant,Locanda dei Castellani,,45.9142938,10.6031509
+node/9050734119,restaurant,Detto Fatto,,46.0921511,11.1199143
+node/9052752671,restaurant,Bella Vita (Ex Gigajoy e Jollyblue),,45.9475097,10.9042911
+node/9062169440,restaurant,Officina Verde,,45.8948791,10.836111
+node/9062283283,restaurant,La Buca,,46.3039679,10.8604306
+node/9065351177,restaurant,Porca Vacca,,45.9595403,10.9136915
+node/9069496632,restaurant,Ristorante Alfio,,45.9604728,10.9138168
+node/9069984725,wilderness_hut,Bivacco Malga Cima,,46.1022327,11.5233809
+node/9110805217,restaurant,Le Busatte,,45.865082,10.8820856
+node/9140041709,restaurant,Ristaurante Pizzeria Agnello,,46.4768608,11.7408864
+node/9144412337,restaurant,Ristaurante della Villa,,46.4758698,11.7398147
+node/9144688122,restaurant,Stua De Macoch,,46.4762426,11.7420769
+node/9144797518,restaurant,Ristorante Crepes De Sela,,46.4746063,11.7394068
+node/9145165083,restaurant,Pizzeria Speckstube,,46.4769693,11.7386041
+node/9155382632,restaurant,il Dogèt,,45.8876171,11.0449203
+node/9160519840,restaurant,La Filanda,,46.273677,11.0496145
+node/9176581959,restaurant,Sud,,45.8827621,10.8536023
+node/9176581960,restaurant,Taste of India,,45.8830095,10.8532375
+node/9178364617,restaurant,Amaranta Bio Bistrot,,45.8894932,11.0448232
+node/9226767572,restaurant,Locale tipico Al Volt,,45.9836634,11.0748906
+node/9385990539,restaurant,Bar Pizzeria Doghen,,45.9014974,10.7246471
+node/9431174994,restaurant,Dispensa Dolomiti,,46.0622023,11.1153287
+node/9466639676,restaurant,Pizze & Delizie,,45.9169563,10.8810111
+node/9524677473,restaurant,Doss del Sabion,,46.1670939,10.806392
+node/9549341386,restaurant,Maso dello speck,,45.8553891,10.9298548
+node/9623571497,restaurant,Il Sommelier,,46.0663592,11.1236857
+node/9631294315,restaurant,Acquaefarina,,46.0734334,11.1265392
+node/9691333484,restaurant,Krügel,,46.1382777,11.1092959
+node/9721163017,restaurant,Alla Torre Ristornate Pizzeria,,45.8851655,10.8403812
+node/9759198506,wilderness_hut,Malga Stabio,,46.017372,10.773625
+node/9759263122,wilderness_hut,Malga Solvia,,46.0038114,10.7526598
+node/9770089608,restaurant,Restaurant l'onda / hotel baia azurro,,45.8770256,10.8653662
+node/9770121345,restaurant,Maroadi restaurant,,45.8756602,10.8686321
+node/9801514695,restaurant,Al Faro,,46.0369176,11.2436962
+node/9802480737,restaurant,Pizzeria Zalejada,,46.3776704,11.658191
+node/9814512433,restaurant,Pizzikotto,,46.0597682,11.1151719
+node/9815615681,restaurant,Col de Cuk,,46.4637971,11.8613941
+node/9824742516,restaurant,Casa Liu,,45.910092,10.8614299
+node/9828604459,restaurant,Ristorante Gotì,,45.8735172,10.8741238
+node/9843593399,restaurant,Ristorante al Lupo,,45.8785707,11.0323062
+node/9845773846,restaurant,Bistrò Linfano,,45.8789981,10.8731986
+node/9850542877,restaurant,Alt Spaur,,46.2200372,11.0491288
+node/9851307739,restaurant,Pizzeria Dossi,,46.2933613,10.6830878
+node/9863836497,restaurant,La Lanterna,,45.9387703,10.89723
+node/9863836498,restaurant,Ristorante Alla Pergola,,45.9426716,10.9014521
+node/9873982869,restaurant,Bar Pizzeria Barcollo,,46.3129193,11.6648099
+node/9874153782,restaurant,Le Rais,,46.2929962,11.4561919
+node/9874335862,restaurant,La Colombera,,45.8869359,10.8611567
+node/9876021177,restaurant,La Cantinetta - Canazei,,46.4744788,11.7745213
+node/9904112933,restaurant,Pizzeria Ristorante la Svolta,,45.9957417,11.2546813
+node/9907639517,restaurant,Pizzeria Bar Alpi,,46.2585178,10.5844272
+node/9922008858,restaurant,Friggitoria al Porto,,45.8834965,10.8388499
+node/9922032794,restaurant,La Montanara,,45.886245,10.8403661
+node/9922032805,restaurant,Osteria PaneSalame,,45.8861916,10.8406089
+node/9922353183,restaurant,Capannina Pool Restaurant,,45.8807975,10.8513154
+node/9951593620,alpine_hut,Rifugio Micheluzzi,1860,46.4906985,11.7072689
+node/9961282550,restaurant,Pizza Pazza E Tanto Altro,,45.8980374,10.843871
+node/9963209189,restaurant,Ristorante al Soldino dell'Imperatore- Pizzeria,,46.2989742,10.8672058
+node/9967136053,restaurant,Le tre oche,,45.8714048,10.7729813
+node/9969540118,restaurant,El Volt,,46.232392,10.8266011
+node/9971658084,restaurant,Ristorante al faggio,,46.1665217,11.0051766
+node/9980361650,restaurant,Zanolini,,46.2248532,10.8268103
+node/9987697350,restaurant,Il Ritratto,,45.9191706,10.8870676
+node/10011056020,restaurant,Piccadilly,,45.8856313,10.8395041
+node/10028966946,restaurant,La Cort,,45.8858823,10.8424349
+node/10069502130,restaurant,Pizza da asporto BORGO VECCHIO,,45.8778656,10.8903338
+node/10168639260,restaurant,L'osteria,,46.0521277,10.8537779
+node/10178544320,restaurant,La vecchia signora,,46.0901056,11.1152053
+node/10188849601,restaurant,Racer Cafè,,46.0886586,11.1091244
+node/10266184675,restaurant,Baita La Zondra,,46.4332676,11.6645517
+node/10309002131,restaurant,San Rocco,,46.3621759,10.6713951
+node/10608991532,restaurant,Sushiko,,46.0606119,11.1257192
+node/10629580829,restaurant,Old Wild West,,46.0879907,11.1184295
+node/10700372429,restaurant,Pizza al Taglio Le Ghinghe,,46.0341031,10.7257074
+node/10719030750,restaurant,Azai Sushi e Poke,,45.8905371,11.0407686
+node/10728537269,restaurant,Ristorante Domu Mea,,46.4392544,11.1381163
+node/10731125552,restaurant,Hotel Villa Argentina Ronzone,,46.4278996,11.1546058
+node/10797343370,restaurant,Ai Frati,,46.0737575,11.1290321
+node/10813258870,restaurant,Locanda al Minatore,,46.1925265,11.1615168
+node/10821582738,restaurant,Il Dopolavoro,,46.1082746,11.1102602
+node/10957767205,restaurant,Ristorante Hotel Garni,,46.477002,11.774145
+node/11010942890,alpine_hut,Rifugio Petina,,46.2069457,11.8283217
+node/11012394634,restaurant,Bar Maggio,,45.919535,10.8871374
+node/11025869857,restaurant,Piccola Osteria Bianchin,,45.9196754,10.8868309
+node/11081826146,wilderness_hut,,,46.2491574,11.6974994
+node/11093980622,restaurant,L'Aia,,46.3176053,10.8028324
+node/11101614885,wilderness_hut,Bait la Plantola,1890,46.3417351,10.8331966
+node/11102621312,restaurant,Il Quadrifoglio,,46.1706909,11.2204056
+node/11135053922,restaurant,Villino Beach,,45.8819468,10.8491579
+node/11135058509,restaurant,Le Magnolie,,45.8852083,10.8423994
+node/11138924815,wilderness_hut,Bait Mandrio Buse,,46.4316173,10.775713
+node/11138929607,wilderness_hut,,,46.4316462,10.7757554
+node/11138943607,wilderness_hut,Rifugio Val Amola-Giovanni Segantini,,46.2091123,10.7107886
+node/11164927634,wilderness_hut,Bivacco Begey,2909,46.1642022,10.5927936
+node/11229808325,restaurant,Ristorante Cinzia,,45.9954865,11.2163269
+node/11250433837,wilderness_hut,Servizio Foreste 2022 (chiuso),,46.1008618,11.3820876
+node/11255001930,restaurant,Ristorante Rifugio Colverde,,46.2719859,11.8214329
+node/11271500964,restaurant,RiPizziCo,,45.8846274,11.0424516
+node/11309279590,restaurant,Frosch,,46.3020522,11.4564618
+node/11407409873,wilderness_hut,Bivacco Malga Fassa,,46.3900576,10.769596
+node/11457441163,restaurant,Schiri Sushi,,46.2895538,11.5088725
+node/11462289615,restaurant,Central bar,,46.376924,11.6594861
+node/11475955208,restaurant,Trattoria dei Borghi,,46.0489755,10.8768072
+node/11519094669,restaurant,La Moa,,46.2833187,11.5168966
+node/11584174993,restaurant,Dolomites Geyser,,46.4256681,11.7006914
+node/11587597353,restaurant,La Lanterna,,45.9224663,11.191043
+node/11587597354,restaurant,Le Giare,,45.9223669,11.1909941
+node/11593039880,restaurant,La Caneva,,45.9194142,11.1923694
+node/11608730673,restaurant,In.Treska,,46.3315082,11.5580709
+node/11612632395,restaurant,Pizzeria Ristorante Gams di Giuseppe Redolf,,46.3137576,11.5997549
+node/11618747081,restaurant,Carlo Valentini,,46.5059435,11.7573844
+node/11619340137,restaurant,Al Fiume Ristorante Pizzeria,,45.9202962,10.8905058
+node/11638533064,restaurant,Ristorante Dolomiti,,46.0710228,11.1170025
+node/11660303312,restaurant,Home stube,,46.2273078,10.8258789
+node/11755659751,alpine_hut,Pra dela Lori,,46.031474,11.0258164
+node/11821945029,restaurant,Sawadee,,45.9242188,10.8974795
+node/11837595751,restaurant,L'Angolo della Pizza,,45.9793221,10.6668274
+node/11881082969,restaurant,Albergo Ristorante alla Costa,,45.8964593,10.7164933
+node/11926025731,restaurant,Bar Ristorante Pizzeria Passione,,46.4002239,11.0692286
+node/11936642391,restaurant,Ristorante Pizzeria La Prateria,,45.8785552,10.89617
+node/11951417706,restaurant,Forest Camp,,45.8884073,10.9572089
+node/11951539289,restaurant,Go Pizza,,45.8859701,10.8409686
+node/11977444468,restaurant,Ristorante Antica Gardumo,,45.8881539,10.9479296
+node/11989730056,restaurant,La Baita,1227,45.8982225,10.9746652
+node/12022527339,restaurant,Orso Grigio,,46.0655651,11.1224418
+node/12025724906,restaurant,Kayi Sushi - Arco,,45.9079134,10.8674936
+node/12040158050,wilderness_hut,Servizio foreste 2023 (chiuso),,46.1172778,11.4012661
+node/12041562850,restaurant,Caprizza,,46.0694633,11.1201206
+node/12047950434,restaurant,Alchimia del Gusto,,46.0758489,11.1445327
+node/12049958354,restaurant,Kusk La Locanda,,46.3748962,11.6583763
+node/12061001018,restaurant,La Movida,,45.853213,10.9678279
+node/12065984040,restaurant,Taverna al gufo,,45.9145021,11.1756928
+node/12066038201,restaurant,La Tana,,46.229501,10.8269992
+node/12068758610,restaurant,La Doga,,46.177253,11.8302348
+node/12070335205,restaurant,Cappelletti,,45.91977,11.1613071
+node/12076477691,restaurant,,,45.8852062,10.8395573
+node/12076555560,restaurant,Frischhh,,46.2320389,10.8276879
+node/12077527469,restaurant,RivaMia,,45.8865014,10.8407439
+node/12084031000,restaurant,Malga Zochi,,45.9639724,11.3138141
+node/12084033843,restaurant,Malga Melegna Zonta,,45.8663017,11.2286406
+node/12112765937,restaurant,Malga San Giovanni al Monte,,45.9725228,10.8894541
+node/12141677535,restaurant,Malga Cime,,45.7036873,10.9602783
+node/12144489173,restaurant,Bar Trattoria Cescatti,,45.8454306,10.977686
+node/12146327657,restaurant,Salotto Amor,,46.3117006,11.6024665
+node/12146356989,restaurant,Pizzeria l'incontro,,46.3142056,11.6012705
+node/12161682439,restaurant,Hermes,,46.1412103,11.0856898
+node/12189590458,restaurant,Golf Rendena,,46.1201071,10.7578611
+node/12192635727,restaurant,Locale tipico Sorne,,45.8062428,10.9519003
+node/12265635488,restaurant,Hotel Lago Smeraldo,,46.4437512,11.1417326
+node/12279573100,restaurant,Osteria Tipica Trentina,,46.2963212,10.6881335
+node/12298881620,restaurant,ristorante Silvana,,45.916812,11.0600192
+node/12389967734,alpine_hut,Rifugio Don Zio Pisoni,1590,46.0300585,10.9245489
+node/12393864533,restaurant,Ristorante Pizzeria Rolly,,45.9033149,10.859632
+node/12430843295,restaurant,Super G Italian Mountain Club - Campiglio,,46.2377942,10.817699
+node/12431036302,restaurant,Aidin,,46.4862345,11.8002636
+node/12456843777,restaurant,Macelleria Gastronomia Bonat di Luigi Valline,,46.1551061,11.8069985
+node/12471977407,restaurant,Kayi Sushi,,46.091762,11.106811
+node/12480543249,restaurant,Edy,,46.4599385,11.7850774
+node/12496229960,restaurant,Lievitiamo,,46.0532403,11.453639
+node/12526527781,restaurant,,,45.7322541,10.9379759
+node/12533599534,wilderness_hut,,,46.0179652,10.778044
+node/12534798829,restaurant,Chalet Forst,,46.1501275,10.9963239
+node/12534798831,restaurant,Ristorante Pizzeria Al picchio rosso,,46.1787901,11.0144417
+node/12534798838,restaurant,Baita Lovara,,46.1471827,10.997615
+node/12534903736,restaurant,La tana dell'ermellino,,46.1841009,11.0130123
+node/12578429304,restaurant,AtipicO,,46.0402307,10.7475168
+node/12620278935,restaurant,Virgin Pub e Pizza,,46.3562296,10.6906278
+node/12638364707,restaurant,La Ruina,,45.8363792,11.0110852
+node/12655703958,restaurant,,,46.1916599,11.2593609
+node/12673376360,restaurant,Trattoria Bar Alpino,,46.1867893,11.2606414
+node/12730450958,restaurant,Dalaip dei Pape,,46.1880607,11.8746434
+node/12737596348,restaurant,Pasta Fresco Bistro,,45.8850721,10.8404361
+node/12827982430,restaurant,Perbene - Burger o quasi,,46.0658667,11.1197438
+node/12833129939,restaurant,Camping Restaurant Lagorai,,46.0888489,11.5985496
+node/12855160789,alpine_hut,Casa Alpina Don Mario Leonardi,,46.131344,11.6941275
+node/12856235499,restaurant,Al Vicolo,,46.0545616,11.459362
+node/12862101949,restaurant,Goodfellas,,46.0849642,11.113458
+node/12865775525,restaurant,Ristoro,,45.8546199,10.5672798
+node/12872944005,restaurant,Osteria Corte dei Toldi,,46.3620627,10.9255464
+node/12877305265,restaurant,Pizza Chef Trento,,46.0531234,11.1283476
+node/12917450916,restaurant,El Tavel,,46.1635348,11.0028066
+node/12920706601,restaurant,Ristorante Pizzeria 600,,45.8730398,10.8743277
+node/12924642891,restaurant,Ristorante Pizzeria le Fucine,,45.8852913,11.0299243
+node/12964715376,restaurant,Ristorante Villaggio,,46.2485068,11.3468519
+node/12966946118,restaurant,,,46.4140806,11.1724785
+node/13011660550,restaurant,Le peze,,46.1438101,11.7985195
+node/13016236452,restaurant,Volée Bistrò,,46.103651,11.114801
+node/13031438527,wilderness_hut,,,46.0300599,10.9244843
+node/13051113815,restaurant,Ristorante al Vecchio Mulino,,46.0769676,11.0194654
+node/13060043168,restaurant,La vecchia cantina,,46.0983153,11.0186365
+node/13070415917,restaurant,Il gallo cedrone,,46.2350452,10.824322
+node/13087571082,restaurant,Ristorante Pizzeria Tobia,,45.9397688,11.2632915
+node/13089434401,restaurant,Pizzeria Mendola,,46.4179686,11.2060846
+node/13096495693,restaurant,'L Bartoleto,,46.3108536,11.6011891
+node/13096519404,restaurant,La Situa dei Ladins,,46.4754175,11.7726374
+node/13097667907,restaurant,Pizza House,,46.3099023,11.6020899
+node/13103849611,restaurant,Tajmahal,,46.0539943,11.4566546
+node/13121124701,restaurant,Burger bistrò 2.0,,46.1770619,11.8301676
+node/13124802366,restaurant,Malga Cengledino,,46.0439928,10.6801227
+node/13152675103,restaurant,Plattkofelhütte Rifugio Sasso Piatto,,46.5044487,11.7007133
+node/13160547380,restaurant,A Bella Napoli,,46.0666002,11.5234948
+node/13168231681,restaurant,Chalet Val Genova,,46.1739206,10.744299
+node/13171769673,restaurant,Erica,,46.0860614,10.9090955
+node/13207027823,restaurant,Locanda Elisa,,46.3251441,10.8751693
+node/13283695637,restaurant,Pizzeria Les Arcs,,46.1020756,10.7380223
+node/13287818219,restaurant,Pizzeria Carè Alto,,46.0975401,10.7332633
+node/13291274214,restaurant,Ristorante Pizzeria Al Cavalletto,,46.0605075,11.2393412
+node/13294690824,restaurant,Bierhaus Trento Ristorante & Birra,,46.0654083,11.1226101
+node/13297301716,restaurant,La Prosciutteria,,46.0667082,11.1220932
+node/13316126174,restaurant,MIC Ramen Trento,,46.0678902,11.1185965
+node/13320027801,restaurant,La Cantina,,46.0619602,11.1514911
+node/13339238165,restaurant,L'è Bon,,46.0684245,11.1197198
+node/13355786349,restaurant,Augurio,,46.0681075,11.1266775
+node/13357303106,restaurant,Meridiane - Bistrot Pizzeria,,46.337774,10.8926178
+node/13391490265,restaurant,ZINT Hostaria,,46.0556997,11.6157708
+node/13395663274,restaurant,Al Dosarel,,46.4185754,11.1273104
+node/13417735669,restaurant,Alpe Bellaria,,46.0651514,11.0804196
+node/13432036440,restaurant,Ristorante Pizzeria Happy Days,,46.0156356,11.2342446
+node/13444981501,restaurant,Risto3 - Ristorante Self Via Maccani,,46.0890793,11.1097803
+node/13448244695,restaurant,Bar Ristorante al lago,,46.1403478,11.2568555
+node/13460645797,restaurant,IL Picchio,,46.0367006,10.8613998
+node/13481851641,restaurant,KINZU SUSHI,,45.8730316,11.0214426
+node/13518964669,restaurant,Ristorante Rendener Alpine Food,,46.1615526,10.7631605
+node/13522575501,restaurant,La Telia,,46.4765682,11.7733056
+node/13529654562,restaurant,Ramen House,,46.065935,11.1210705
+node/13595723070,restaurant,Osteria & Friends-Al 30,,46.2285011,10.8268516
+node/13595986446,restaurant,Ristorante Al Tablà,,46.1583606,10.7651838
+node/13622887284,restaurant,,,46.1110309,11.0481765
+node/13651531013,restaurant,,,46.3105458,11.6321403
+node/13651598180,restaurant,,,46.4736454,11.7405374
+node/13666429600,restaurant,Rialto,,45.8813162,10.8550302
+node/13700954235,alpine_hut,Chalet Brento,1350,45.9969081,10.8978707
+node/13713174969,restaurant,,,46.171341,11.0060893
+node/13743342501,restaurant,Habesha Bar Ristorante,,46.0751638,11.1244751
+node/13830932697,restaurant,Alla Stretta,,46.0591115,10.9782906
+node/13839171723,restaurant,Chalet 44 Alpine Lounge,,46.3308979,11.7087181
+node/13839363879,alpine_hut,Rifugio Passo Lusia,,46.3433733,11.7013185
+node/13871092401,restaurant,Black sheep bistrot,,46.0682953,11.1212577
+node/13900178015,restaurant,Osteria da Gio,,45.9980654,10.9542695
+node/13904025540,restaurant,Ristorante Pizzeria Vidor,,46.4205949,11.7076286
+node/13905958453,restaurant,Oasi Lago Bagattoli 2.0,,45.9829875,10.9220858
+node/13918490536,restaurant,Pizzeria Ristorante Genzianella,,45.9654936,10.9737769
+node/13923187921,restaurant,Taverna dell'orso,,46.3298791,11.0245295
+node/13929029909,restaurant,Chandi,,45.8833902,11.034352
+node/13948729820,restaurant,Pizzeria Terra Rossa,,46.0509278,11.2223902
+node/13952712901,restaurant,China gusto,,46.0569198,11.1281125
+node/13964122112,restaurant,Maria,,45.8858255,10.8408102
+node/13964126353,restaurant,Riva Mia,,45.8861606,10.8406873
+node/13967242887,restaurant,Machapoke,,45.8830894,10.8537029
+node/13995932646,restaurant,Volta,,45.8896337,11.0433225
+node/14080846547,restaurant,Lusernarhof - Amapama,,45.9240126,11.3180832
+node/14096865737,restaurant,Ristorante San Rocco,,46.1753071,11.2225771
+node/14113446280,restaurant,901,,45.9377116,11.255501
+node/14119918741,restaurant,,,46.0469031,10.9519207
+node/14128693701,restaurant,Ostaria Tyrol,,46.3764828,11.6609829
+node/14143930831,restaurant,Pizzeria Ristorante da Lucio,,45.9662226,10.8116365
+node/14143930833,restaurant,La Ruzza Bike Grill,,45.9669414,10.8111092
+node/14159060598,restaurant,Ritratti e sapori,,46.1770109,11.8289084
+node/14159262861,restaurant,Osteria Pan e vin,,46.189726,11.8291738
+node/14173113796,restaurant,,,46.3378388,10.6660175
+node/14221725662,restaurant,Pizzeria Al Mulino,,45.7421182,10.9195655
+node/14273724211,restaurant,Ristorante el Filò,,46.140012,11.2523717
+node/14279398301,restaurant,Ristorante Pizzeria Lilla,,46.098333,11.0586568
+node/14281257064,restaurant,Pizzeria all'Angolo,,46.1580853,10.7645319
+node/14292915791,restaurant,Dalla Fattoria,,45.8878697,10.7308244
+node/14306794234,restaurant,La Grosta,,46.0998257,10.7368782
+node/14321528240,restaurant,Dovial,,45.92834,11.0934897
+node/14321639509,restaurant,Mildas,,46.1508926,10.7675062
+node/14336078128,restaurant,A soleder,,46.1733529,11.8271776
+node/14338247556,wilderness_hut,,,46.1129887,11.5612295
+node/14341718039,restaurant,Pizza Planet,,46.053223,11.1327266
+node/14342134827,restaurant,Hotel Borgo Antico,,46.1441142,11.194372
+node/14345451387,restaurant,La Grosta,,46.1696167,10.7624098
+way/24862387,restaurant,Mensa e bar Mesiano,,46.0662418,11.1399894
+way/26773480,restaurant,Castel Pergine,,46.0591615,11.2497918
+way/29334866,restaurant,Al Fontanin,,46.4199423,10.7735446
+way/29334896,restaurant,Malga Stablasolo,1539,46.4300312,10.7688055
+way/29390000,alpine_hut,Rifugio Cornisello,2120,46.2199647,10.7382115
+way/29435994,restaurant,Rifugio Nambrone,1350,46.2051582,10.7534972
+way/30286551,restaurant,Malga Panciana,,46.2855152,10.821162
+way/35212334,alpine_hut,Malga Roncher/ Malga Cavedine,,45.9979084,11.0250474
+way/35212337,restaurant,Capanna Viote,,46.0204468,11.0424996
+way/36743997,restaurant,Rifugio Alpe Pozza - Vincenzo Lancia,1825,45.8272905,11.1447193
+way/37014394,alpine_hut,Rifugio Baita Tonda,,45.8878794,11.1755126
+way/37103877,restaurant,"Bar Ristorante ""alla Baracca""",,46.0423825,11.14082
+way/37241682,restaurant,El Merendero,,46.1028362,11.1028762
+way/37419312,restaurant,La Roccia,,46.0169574,11.1447046
+way/37811920,restaurant,Ristorante TEX,,45.9915968,11.2157433
+way/37832976,restaurant,Ristorante Vindimian,,46.1391508,11.1013823
+way/38510469,alpine_hut,Rifugio Stoppani,2439,46.2149333,10.900701
+way/38564018,alpine_hut,Rifugio Cacciatore,1820,46.129947,10.8805046
+way/38564403,alpine_hut,Rifugio Val d'Ambiez - Silvio Agostini,2410,46.1424346,10.8694778
+way/38612573,alpine_hut,Rifugio Maria e Alberto al Brentei,2182,46.1752428,10.876025
+way/38613134,alpine_hut,Rifugio Francis Fox Tuckett,2272,46.1920149,10.8821454
+way/38778241,wilderness_hut,Malga Termoncello,1856,46.2513421,10.9664233
+way/38912305,alpine_hut,Rifugio Viote,,46.0232641,11.0378016
+way/39687327,alpine_hut,Rifugio Alimonta,2580,46.1739418,10.8919996
+way/40223444,restaurant,Hotel al Pian Bar Restaurant Pizzeria,878,45.9792911,11.2376104
+way/41772401,restaurant,Pizzeria Boccon d'Oro,,45.905511,10.8671491
+way/41989569,restaurant,Malga Cimana,,45.949854,11.0444473
+way/42223145,alpine_hut,Rifugio Capanna Piz Fassa,3152,46.5089703,11.8281424
+way/42224521,alpine_hut,Rifugio Boé,2871,46.514612,11.8232878
+way/42253280,alpine_hut,Rifugio Forcella Pordoi,2848,46.5018889,11.8123954
+way/42257301,restaurant,Rifugio Maria,2950,46.5004415,11.8077105
+way/42375538,alpine_hut,Rifugio Finonchio Fratelli Filzi,1603,45.9004484,11.1148001
+way/44030265,restaurant,Agriturismo Santa Barbara,,45.8358687,10.5417874
+way/44030338,wilderness_hut,Bivacco Malga Vacil,1800,45.8741889,10.5202245
+way/44030961,restaurant,Barambana,,45.8494777,10.5592853
+way/44031083,restaurant,Firi,,45.8444125,10.5836219
+way/44031807,wilderness_hut,Malga Monsur,,45.8588157,10.6191834
+way/48459402,restaurant,Maso Carpenè,,45.8777001,11.0000907
+way/50240170,restaurant,Cogola,,45.8878907,11.1541896
+way/51681929,restaurant,Rifugio Mezzavia - Halbweghütte,,46.391191,11.2063015
+way/54175290,restaurant,Albergo Lago Santa Colomba,,46.1243704,11.1798598
+way/58425582,restaurant,Ristorante Pizzeria Le Giare,,46.4310219,11.6885554
+way/58429469,restaurant,Ristorante Al vecchio mulino,,46.4304554,11.6915778
+way/58507354,restaurant,Rifugio Fos-Ce,1435,45.7859519,10.8864191
+way/58533321,restaurant,Bar Pizzeria Winkler,,46.4285982,11.6971987
+way/58632361,restaurant,Ramon,,46.4412795,11.6945127
+way/58657634,restaurant,Hotel Mirage,,45.8792522,10.8574666
+way/58733843,restaurant,La Rocca,,45.9230802,11.0931358
+way/58737467,restaurant,Dal Barba,,45.9177278,11.0342912
+way/58963022,restaurant,Ponale Alto Belvedere,,45.8618873,10.8312358
+way/59132096,restaurant,Il Giardino delle Spezie,,46.0582989,10.980536
+way/59180626,restaurant,Ristorante La Berlera,,45.9092984,10.8513636
+way/59190635,restaurant,Eden Marone,,45.9004637,10.8350848
+way/59276375,restaurant,Baita Al Parco,,46.475509,11.7686255
+way/59296576,restaurant,,,46.4621537,11.7827674
+way/59298311,restaurant,Pizzeria Ristorante El Resole',,46.4604599,11.7833023
+way/59323472,restaurant,Rifugio Genzianella - Enzianhütte,,46.408805,11.2109616
+way/59323474,restaurant,Mendel Stube,1331,46.4043999,11.2070386
+way/59326765,restaurant,Malga Romeno,1773,46.3727172,11.1960773
+way/59387680,restaurant,Panarel,,46.4571323,11.8016968
+way/59415776,restaurant,Albergo Rosalpina,,45.8509248,10.8261153
+way/59415779,restaurant,Albergo Panorama,,45.8513329,10.8246673
+way/59428765,alpine_hut,Rifugio Coni Zugna,1628,45.8078379,11.0581094
+way/59475042,restaurant,Malga Borcola,,45.8319927,11.2040549
+way/59608064,wilderness_hut,Bivacco malga Stigolo,,45.8633416,10.6266182
+way/59700859,wilderness_hut,Baito Fontana delle Laste,1919,46.049076,10.6624982
+way/59701053,alpine_hut,Rifugio Trivena,1650,46.0501398,10.6124392
+way/59721521,alpine_hut,Rifugio Vederna,1324,46.1210008,11.7951696
+way/60132987,wilderness_hut,Bivacco Arcioni,858,45.869832,10.8201995
+way/60133602,alpine_hut,Malga Nardis,1784,45.9702962,10.7785898
+way/60133604,alpine_hut,malga Cogorna,1667,45.9841479,10.7973558
+way/60133605,wilderness_hut,Malga Casint,,45.9723545,10.7418139
+way/60134014,wilderness_hut,Bivacco Malga Pura,1534,45.9492169,10.6925359
+way/60208512,restaurant,Rifugio Malga Campei,1470,45.8292234,10.9177538
+way/60442163,alpine_hut,"Rifugio Altissimo ""Damiano Chiesa""",2059,45.8103804,10.8903784
+way/60682445,restaurant,Malga Bocche,1939,46.3240752,11.7454075
+way/60803824,restaurant,Bellariva,,45.8799252,10.8537732
+way/60882056,restaurant,Capanna Grassi,1056,45.9215927,10.7846
+way/60888512,alpine_hut,"Rifugio Bocca di Trat ""Nino Pernici""",1600,45.9266112,10.7686823
+way/60889719,wilderness_hut,Baita Mirella,,45.9107017,10.7664869
+way/60891722,restaurant,Albergo Deva,,45.9082339,10.8334341
+way/60922996,restaurant,La Trifora,,46.4051638,11.1431838
+way/61319179,wilderness_hut,Malga di Amblar,1730,46.3711808,11.1795326
+way/61376550,alpine_hut,Rifugio Stivo Prospero Marchetti,2012,45.9211403,10.9619155
+way/61594118,restaurant,Hotel Passo Bordala,,45.9073013,10.9770356
+way/61672117,restaurant,Corona Bar Ristorante,,45.9645296,10.8112591
+way/61925517,restaurant,Al Capriolo,,46.2943523,10.9744002
+way/61925531,restaurant,Albergo Lago Rosso,,46.2603012,10.9439894
+way/61932653,restaurant,Albergo al Passo,,45.760108,11.1730669
+way/61972114,alpine_hut,Rifugio San Pietro,976,45.9327447,10.8386438
+way/62030411,alpine_hut,Rifugio Carè Alto,2450,46.1076518,10.6261035
+way/62031984,restaurant,Conca Verde,,46.3953012,11.145777
+way/62283377,restaurant,Cà Briosi,,45.9152726,10.8418091
+way/62283414,restaurant,Snack Bar Panorama,,45.9155692,10.8468128
+way/62323714,restaurant,Baita Santa Lucia da Fritz,,45.8878204,10.6997636
+way/64199563,restaurant,Pizzeria Bar Al Lago,,46.2667419,11.4067939
+way/64392934,restaurant,Ristorante Pizzeria Pineta,,46.2680093,11.417791
+way/64392979,restaurant,Agritur Malga Arodolo,,46.2617131,11.4269023
+way/64659542,restaurant,Pizza da Baffo,,46.2882149,11.427516
+way/65400061,restaurant,Rifugio Des Alpes,2387,46.4966886,11.7516217
+way/65425151,restaurant,Ristorante Bar Vecchia Stazione,,46.2872504,11.4212674
+way/65608560,restaurant,Ristorante Prime Rose,,46.0162085,11.2899617
+way/65630321,restaurant,Osteria da Carpano,,46.4195266,11.6801606
+way/66096229,restaurant,Casa dello Speck da Tito,,46.305617,11.4359151
+way/66296759,alpine_hut,Rifugio Mandrone,2442,46.2025653,10.5711758
+way/66387405,alpine_hut,Rifugio Cima d'Asta Ottone Brentari,2476,46.1703065,11.6043945
+way/66390582,alpine_hut,Malga Monte Corno - Trudner Horn Alm,1710,46.287755,11.3273621
+way/66403605,alpine_hut,Rifugio Laghi di Colbricon,1927,46.2817551,11.7666968
+way/66403609,restaurant,Malga Rolle,,46.2961204,11.777017
+way/66761907,alpine_hut,Rifugio Garibaldi,1521,45.8440478,10.6810262
+way/66984834,restaurant,Hotel Ristorante Villa Cristina,,45.8818489,11.0324409
+way/67103426,restaurant,Ai Camini,,45.8805805,11.2064331
+way/67153594,restaurant,Pizzeria Celeste,,45.8808762,11.0370143
+way/67331503,restaurant,,,45.7815808,10.9137964
+way/67334218,restaurant,Malga Dossioli,,45.7578183,10.8804136
+way/67493498,restaurant,Rifugio Malga Sorgazza,1450,46.1336536,11.5989327
+way/68564711,restaurant,Doppio Malto,,46.0803974,11.1224671
+way/68826695,restaurant,Ristorante B&b Pian Schiavaneis,,46.4987529,11.7912257
+way/68826696,restaurant,Monti Pallidi,,46.4983051,11.7912887
+way/68827782,alpine_hut,Carlo Valentini,2218,46.505959,11.7573656
+way/69735511,restaurant,Zurigo,,45.8516458,10.9717926
+way/69991072,restaurant,I Sapori,,45.909461,10.8709155
+way/70007944,restaurant,Albergo Al Ponte,,45.9130847,11.037271
+way/70037769,restaurant,Ristorante All'Amicizia,,45.9166065,11.0306856
+way/70085323,wilderness_hut,Malga Nassere,1763,46.1520232,11.5346806
+way/70144237,restaurant,Rifugio Crucolo,1105,46.1189616,11.4985713
+way/70144248,alpine_hut,Hotel SAT Lagorai,,46.1487667,11.5143138
+way/70288364,restaurant,Agriturismo La Pergola,,45.9268266,11.0289472
+way/70439832,restaurant,Laghetto,,46.0017476,11.0852898
+way/70439885,restaurant,Miramonti,,46.0019505,11.0851147
+way/70693571,restaurant,Malga Baessa,,46.1476457,11.4593558
+way/71055698,alpine_hut,Malga Valsorda,,46.2092484,11.7428348
+way/71152400,restaurant,Malga Cere,1713,46.1425921,11.4830985
+way/71336735,restaurant,Bait del Germano,,46.1126498,10.9961131
+way/71338160,restaurant,Rifugio Garda,1702,45.8368817,10.690584
+way/71339813,restaurant,Chalet Malga Terlaga,,46.1416285,11.0217925
+way/71393327,restaurant,Albi de Mez,,46.1463919,11.0239554
+way/71394350,restaurant,Malga Zambana,1792,46.1502717,11.0283673
+way/71438462,restaurant,Ristorante Pizzeria al Parco,,45.8862811,11.0079617
+way/71550218,restaurant,,,45.8829844,11.0113264
+way/71663201,alpine_hut,Rifugio Rododendro,,46.2462742,11.1083444
+way/71891221,restaurant,Ristorante Pizzeria Al Maso,,46.2368355,11.0525473
+way/71891224,restaurant,Baita Marnara,,46.2342384,11.0444416
+way/72528026,restaurant,Ristorante Pizzeria Al Duomo,,46.2092354,11.0940922
+way/72557952,restaurant,3 Pini,,45.8619215,10.9995405
+way/72667651,restaurant,"Hotel ristorante ""Al Brenta""",,46.0059855,11.2919981
+way/72735951,restaurant,,,45.8501192,10.9803267
+way/72767594,restaurant,Surfer's Grill,,45.8734755,10.8732047
+way/72767636,restaurant,Villa Cian,,45.872399,10.8697599
+way/72785842,wilderness_hut,Malga Fornasa Alta,1892,46.1774347,11.409186
+way/73141151,restaurant,Ai Piani Ristorante Pizzeria,,46.2266859,11.072766
+way/73412645,restaurant,Ristorante Pozze,,46.2175354,11.0978452
+way/73424152,restaurant,Ristorante Casa Nardon,,46.2091113,11.0958935
+way/73496855,restaurant,,,45.8517803,10.9795033
+way/73879474,restaurant,La Stua,,45.8759377,11.2183342
+way/73879491,restaurant,Osteria Coe,,45.8762955,11.2178153
+way/74324575,alpine_hut,Rifugio XII Apostoli,2489,46.1506526,10.8474143
+way/74495656,restaurant,Rifugio Antermoia,2497,46.4770453,11.6639392
+way/74495662,restaurant,Rifugio Paul Preuss,2243,46.4580086,11.632589
+way/74495667,alpine_hut,Rifugio Vajolet,2243,46.458555,11.6327282
+way/74864827,alpine_hut,Malga Spora,1855,46.1901583,10.9519518
+way/75093426,wilderness_hut,Malga Sanzeno,1614,46.3666133,11.1647488
+way/75093447,wilderness_hut,Malga di Don,1662,46.3680288,11.1698622
+way/75117105,alpine_hut,Capanna Caduti del Monte Baldo,,45.845166,10.8951416
+way/75310719,restaurant,Ristorante da Pino,,46.1981075,11.1243568
+way/75670754,restaurant,Genovesa,,45.8823402,11.0624871
+way/75670770,restaurant,San Colombano,,45.8854896,11.0599152
+way/76139910,alpine_hut,Rifugio Mantova al Vioz,3535,46.399201,10.6357799
+way/76829171,alpine_hut,Malga di Fondo,,46.4886649,11.1775672
+way/77405222,restaurant,Ristorante Bar Aurora,,45.9254492,10.8947381
+way/77412681,restaurant,Ristorante Villa Giara,,45.9347968,10.8992051
+way/77986765,restaurant,Tre Roveri,,45.9008278,11.0538704
+way/78051365,restaurant,La Roccia,,45.9294736,10.8912875
+way/78328124,restaurant,Ristoro Dolomiti di Brenta,,46.0893052,10.8862055
+way/78352284,restaurant,Gino Pedrotti,,46.0166097,10.9569459
+way/78361649,restaurant,Hotel Ciclamino,,46.012127,10.9358207
+way/78610772,restaurant,Malga Zanga,,45.9062261,10.9391609
+way/79384396,restaurant,La Gnoccata,,46.0737274,11.1507782
+way/79815978,restaurant,Pizzeria Meeting,,45.8759392,10.8706815
+way/79816673,restaurant,Trattoria Linfano,,45.8795425,10.874519
+way/79885576,restaurant,Fior di Bosco,,46.2287654,11.3625631
+way/80974451,wilderness_hut,,,45.9264067,10.7687583
+way/81084047,wilderness_hut,Rifugio Forestale,1551,46.2519081,11.8222818
+way/81106872,restaurant,Ristorante Posta Vecchia,,45.949891,11.1070103
+way/81112166,wilderness_hut,Casa Forestale delle Laste,,46.2401024,11.817475
+way/81238051,restaurant,Al Bersaglio,,46.3680274,11.0203225
+way/81246071,wilderness_hut,Baita El Coston,,46.3288481,11.8061387
+way/81246072,restaurant,Agritur Malga Venegia,1778,46.3222121,11.7960411
+way/81276183,restaurant,,,45.9402705,11.1098972
+way/81294979,restaurant,Trattoria dal Bacon,,45.9346949,10.8117407
+way/81304119,restaurant,Maso Trapp,,45.9309107,11.1117961
+way/81304124,restaurant,Maso Trapp,,45.9307928,11.1119817
+way/81548268,restaurant,"Trattoria ""La vineria"" de Tarczal",,45.8956284,11.0169206
+way/81550228,restaurant,,,45.8958808,11.0151517
+way/81972799,restaurant,La Cantinota,,45.8809921,10.8746506
+way/81972844,restaurant,Pizzeria Villa Emma,,45.8730416,10.8784079
+way/81987869,restaurant,Mas dei Chini,,46.0867107,11.1254478
+way/82591509,restaurant,St. Sebastian,,45.9448898,10.631779
+way/82967086,restaurant,Baita Penne Nere,,45.9403914,11.059488
+way/82967465,alpine_hut,Rifugio Val Di Fumo,1997,46.0844697,10.5625311
+way/83604244,wilderness_hut,Bivacco malga Pertega,1483,45.8536507,10.6983066
+way/83825361,restaurant,Albergo pizzeria Vezzano,,46.0767531,10.9974269
+way/83913606,restaurant,Trattoria La Toresela,,46.0469913,10.9776804
+way/83913962,restaurant,,,46.0250942,10.9814236
+way/84173109,restaurant,Sanscrivel,,45.9144338,11.1718739
+way/84345910,restaurant,Maso Palù,,45.811912,10.9402137
+way/84653321,restaurant,Bar Ristorante Crepa Neigra,,46.4467035,11.7719432
+way/84653322,restaurant,Rifugio Ciampac,,46.4454166,11.7709939
+way/84653328,alpine_hut,Rifugio Tobià del Giagher,,46.44473,11.7698914
+way/84653329,restaurant,Baita Valeruz,,46.4467227,11.7709932
+way/84658997,restaurant,Malga Jumela,,46.4401661,11.7190152
+way/84695057,restaurant,Pizzeria Marina,,45.8939073,10.6834451
+way/84695058,restaurant,Agritur al Marter,,45.8757281,10.6573616
+way/85405208,restaurant,Ristorante Bel Bait,,46.1625806,11.1306846
+way/85541113,restaurant,Antiche Contrade,,46.0549589,11.23635
+way/85739247,restaurant,alla Segheria,,45.9115673,11.181453
+way/87054865,restaurant,La Contea Pizzeria Ristorante Snow Pub,,46.0308135,10.7332394
+way/87441306,restaurant,Lago Mago,,46.1395633,10.7637606
+way/87513890,restaurant,Agritur Maso Pan,,46.1462761,10.7600846
+way/87555295,restaurant,,,45.9340323,11.0951494
+way/87600885,restaurant,Albergo Centrale,,45.7392464,11.0661474
+way/87793181,alpine_hut,Rifugio Mario Fraccaroli,2239,45.7236209,11.1289165
+way/87793185,restaurant,Malga Campobrun,,45.7107992,11.1344162
+way/87793189,alpine_hut,Rifugio Pompeo Scalorbi,1767,45.7110694,11.1400699
+way/87793196,restaurant,Rifugio Passo Pertica,1530,45.7034213,11.1159372
+way/87959579,restaurant,Pappagallo,,46.2252766,10.8235278
+way/88039235,restaurant,Hotel 3 Cime,,46.2257774,11.1222103
+way/88039283,restaurant,Albergo Ai Spiazzi,,46.2251914,11.1196227
+way/88060120,restaurant,Rifugio Patascoss,,46.2301625,10.8178304
+way/88060196,restaurant,Palù della Fava,,46.2481035,10.8433272
+way/88060217,restaurant,Ristorante Cascina Zeledria,,46.2453207,10.8354269
+way/88060272,restaurant,Il Ristoro di Carlo Magno,,46.2456404,10.8451851
+way/88073967,restaurant,Malga Montagnoli,,46.2327499,10.8464356
+way/88073995,alpine_hut,Rifugio Spinale,,46.2226014,10.8484219
+way/88088608,restaurant,Agriturismo Maso Rocca,,45.7466739,11.03507
+way/88096534,restaurant,La Pineta,,45.7563025,10.9983807
+way/88223910,restaurant,Baita Costa Pelada,,45.7850005,10.9253744
+way/88227726,restaurant,Chalet Dahù,,45.7797838,10.9395634
+way/88227797,restaurant,Ristorante Pizzeria Camping Polsa,,45.780118,10.9442332
+way/88488966,wilderness_hut,Capanna Sinel,2000,45.7342833,11.1077667
+way/88511927,restaurant,Albergo Alpino,,45.7594456,11.1446366
+way/88518135,restaurant,Ortesino,,45.9014189,11.2068279
+way/88535822,restaurant,Agritur Mortigola,,45.8065048,10.9259826
+way/88681629,restaurant,Passo Buole,,45.7795291,11.1051285
+way/89723503,restaurant,Lo Scoiattolo,,46.0370566,10.8668757
+way/90576364,restaurant,Chalet Paganella 2,,46.1413642,11.0150027
+way/92289735,restaurant,Chalet Heidi,,46.1156831,11.660853
+way/93282666,alpine_hut,Malga Flavona,1858,46.2252074,10.9306867
+way/93462452,restaurant,,,45.7808242,10.9411906
+way/93462479,restaurant,Polsa,,45.781632,10.9412086
+way/93670069,wilderness_hut,Malghet,1120,46.0550269,11.0349906
+way/93732932,restaurant,Agritur Malga Brigolina,998,46.0574017,11.0605804
+way/93812202,restaurant,Costa Salici,,46.2961159,11.4524104
+way/94190311,wilderness_hut,Ex Rifugio Monte Misone,,45.9673593,10.8326059
+way/94355999,wilderness_hut,Bivacco Lavacchio,1369,45.7276509,10.9024489
+way/94520109,alpine_hut,Rosalpina,,46.2896444,10.8479115
+way/94715997,restaurant,Malga Vigo,,46.2643351,10.8333897
+way/94716003,restaurant,Malga Folgarida di Dimaro,1662,46.2753139,10.8504935
+way/94716007,wilderness_hut,Malga di Sadron,,46.3014867,10.8931084
+way/94750442,alpine_hut,Rifugio Segantini,2373,46.2092377,10.7107991
+way/94816268,alpine_hut,Capanna Presena,,46.227668,10.5798471
+way/94835545,alpine_hut,Rifugio San Giuliano,1960,46.1448945,10.7047547
+way/95122690,restaurant,Malga Bordolona di Sotto,1806,46.4322733,10.8892079
+way/95166086,wilderness_hut,Malga Binasia di Sopra,2138,46.4408241,10.9443323
+way/95282973,restaurant,Ristorante Kristiania,,46.4825907,11.8018014
+way/95420745,restaurant,Baita Gherdeccia,,46.4808948,11.800062
+way/95420781,restaurant,Rifugio Ciampolin,,46.4837908,11.7905778
+way/95420782,alpine_hut,Rifugio Salei,2225,46.5036876,11.752035
+way/95467392,alpine_hut,Rifugio Maddalene,1925,46.4762149,10.9856532
+way/95467400,alpine_hut,Malga Lavazzè,1639,46.4565506,10.9628692
+way/95467411,wilderness_hut,Malga Masa Murada,2046,46.4569902,10.9491884
+way/95540841,restaurant,Malga Monte Sole Alta,2048,46.3926477,10.7714579
+way/95540853,wilderness_hut,Bivacco Malga Fratte Alta,1867,46.4037923,10.777958
+way/95540954,wilderness_hut,,,46.3906057,10.7695503
+way/95545961,alpine_hut,Malga Stablaz alta,2000,46.4095091,10.7481277
+way/95592028,restaurant,Malga Frattasecca,,46.3521509,10.6465299
+way/95592069,alpine_hut,Rifugio Torbi,,46.3998433,10.6906527
+way/95744513,restaurant,Baita Velon,,46.2744541,10.6496207
+way/95838436,restaurant,Al posto giusto,,46.0753177,11.1055215
+way/95877357,alpine_hut,Rifugio Stavèl Francesco Denza,2298,46.2434159,10.6552368
+way/95877506,wilderness_hut,Malga Artuic,1976,46.2768237,10.7793543
+way/95878043,wilderness_hut,Malga Sarodül,1955,46.1872613,10.735542
+way/96081135,restaurant,Bar Ristorante Malga Ritorto,,46.213775,10.8063127
+way/96109066,wilderness_hut,Malga Selva Nera di Carciato,,46.2958257,10.8897047
+way/96109724,alpine_hut,Rifugio Peller,2022,46.3221978,10.9526937
+way/96192698,wilderness_hut,Malghetto Copai,,46.2812032,10.8085964
+way/96248145,wilderness_hut,Bivacco Dino Marinelli,2056,46.3564444,10.8627479
+way/96579225,restaurant,Tana Incantata,,45.9502254,11.2759931
+way/96829016,restaurant,Vecchia Osteria,,46.2929216,11.4570699
+way/96892308,restaurant,Ristorante Al Doss da Armando,,46.1824359,11.0206077
+way/97116424,restaurant,Agritur della Gens Paolazzi,,46.2050437,11.231128
+way/97240655,restaurant,Albergo Ristorante Rampanelli,,46.2216236,11.0498672
+way/97251615,restaurant,Agritur Maso Dorech,,46.1835982,11.0311914
+way/97251678,restaurant,Albergo Bellavista,,46.1836443,11.0218017
+way/97502116,alpine_hut,Rifugio Sores,1205,46.3186557,11.1352296
+way/97851358,restaurant,Agritur Malga Juribello,1868,46.3119965,11.775132
+way/97941683,alpine_hut,Plattkofelhütte - Rifugio Sasso Piatto,2300,46.5044282,11.7008981
+way/98121727,wilderness_hut,Malga Geridol,,46.1831671,10.7356041
+way/98121730,restaurant,Fontana Bona,,46.1652052,10.6793668
+way/98182035,wilderness_hut,Malga Valsorda di Verdesina,,46.0615384,10.6607634
+way/98290165,restaurant,"Agritur ""Malga Cadinel""",,46.1812658,11.4385703
+way/98290167,restaurant,Baita Manghen Hütte,,46.1744066,11.4402973
+way/99249959,alpine_hut,Rifugio Valstornada,,45.9637897,11.0729193
+way/99249960,alpine_hut,Rifugio Cacciatori Aldeno,1008,45.9635476,11.0726334
+way/101164735,restaurant,Bar Trattoria alla Lepre,,46.0515122,10.7762351
+way/102779821,restaurant,Panorama,,46.0043964,11.2588936
+way/102779829,restaurant,Biba's,,46.0016524,11.2530551
+way/103589635,alpine_hut,Rifugio Malga Consèria,1848,46.1704086,11.5400074
+way/103961662,restaurant,Maso Mongidori,,46.0146434,10.9898989
+way/104248467,restaurant,Spaghettihaus Village,,45.9272273,10.8919448
+way/105481834,restaurant,Agritur Malga Sass,,46.2014935,11.3793229
+way/105602356,restaurant,La corte sul lago,,46.0016799,11.2486697
+way/105622539,alpine_hut,Malga Nuova Coredo,1562,46.323566,11.1741665
+way/105642284,restaurant,Binario 79 - Da Ciolda,,46.024727,11.2300424
+way/106612449,restaurant,Malga Lozen,1487,46.1908373,11.785307
+way/106688080,restaurant,Lo Scoiattolo,,46.2395326,11.0220924
+way/107050297,restaurant,Jausenstation,,46.3558518,11.4957838
+way/107175590,alpine_hut,Rifugio Capanna al Ghiacciaio,2700,46.4446281,11.8613462
+way/107176081,restaurant,Rifugio Cima Undici,,46.4577172,11.8648072
+way/107176085,alpine_hut,Rifugio Marmolada Castiglioni,,46.463453,11.8619958
+way/107240474,restaurant,Agritur Torboli,,45.9069026,10.934616
+way/108737909,restaurant,Ristorante Al Pescatore,,46.0023051,11.2547589
+way/108737910,restaurant,Ristorante Europa,,46.0026805,11.2549658
+way/109731262,restaurant,Malga Stabli,1814,46.3363502,10.7811389
+way/109918465,restaurant,Malga Zocchi,,45.821277,11.1252348
+way/111544561,restaurant,Nerina,,46.3802651,11.0932498
+way/113835061,restaurant,Da Silvio,,46.2061469,11.1430684
+way/113870062,restaurant,La Cacciatora,,46.2065904,11.1412635
+way/114275538,restaurant,Agriturismo Malga Masi,1719,46.0538318,11.3412837
+way/115093678,restaurant,Trattoria Anselmi,,46.4543756,11.1084639
+way/115117950,restaurant,Rifugio le Regole,,46.4419589,11.1751382
+way/115118009,restaurant,La Monteson,,46.4412929,11.1799551
+way/115849758,restaurant,Agritur Darial,,46.2917509,11.5175112
+way/116268507,wilderness_hut,Baita Alpini,,46.117836,11.4610391
+way/116380592,alpine_hut,Rifugio la Rezila,,46.356253,11.6937262
+way/116506300,restaurant,Rifugio Buffaure,2050,46.428526,11.7234908
+way/116507550,alpine_hut,Baita Cuz,2213,46.4288207,11.7315409
+way/116535418,restaurant,Baita Ciamp de le Strie,,46.3360708,11.7012266
+way/116535436,restaurant,Baita Bucaneve,,46.3217856,11.6967373
+way/116535441,restaurant,Baita La Morea 3.0,,46.3289891,11.7043603
+way/116543951,alpine_hut,Rifugio Passo Lusia,2055,46.3433781,11.7013184
+way/116828666,restaurant,La Capannina,,46.1433329,11.2459054
+way/117124409,restaurant,Trattoria Arnica,,46.4757758,11.1058961
+way/118218390,alpine_hut,Capanna Santa Barbara,568,45.8839248,10.8300583
+way/118375845,restaurant,Bar Ristorante Passo Durone,,46.033406,10.7990525
+way/118394979,alpine_hut,Rifugio Bindesi - Pino Prati,611,46.0361712,11.1539403
+way/119917913,alpine_hut,Rifugio Lago di Nambino,1770,46.2416207,10.8002244
+way/119930961,wilderness_hut,Bivacco Serodoli,2385,46.2464897,10.778262
+way/120058131,restaurant,Osteria Sant'Anna,,46.0648542,11.0425749
+way/120195041,restaurant,Chalet Valbona,,46.3576882,11.6845315
+way/120201443,alpine_hut,Rifugio Alpino Fazzon,,46.2980106,10.7630928
+way/120229927,alpine_hut,Rifugio Stella Alpina Al Lago Corvo,2425,46.4403844,10.8208383
+way/120306219,alpine_hut,Malga Monte Alto,1080,46.2180283,11.1868164
+way/120805516,restaurant,Maso Plaz,,46.4328606,11.0871915
+way/120987091,restaurant,Bar Trattoria Alla Stua,,46.0781905,11.412835
+way/120987393,restaurant,Ristorante alle Pozze,,46.0683949,11.3806038
+way/120987473,restaurant,Agritur Paradiso,,46.0806838,11.4014212
+way/121064776,alpine_hut,Rifugio Casinei,1850,46.1998063,10.85813
+way/121238252,alpine_hut,Alpenrose,,46.0885887,10.9111494
+way/121260857,alpine_hut,Rifugio Erterle,1426,46.0526256,11.3595986
+way/121382586,restaurant,Pizzeria il Picchio,,46.0497154,11.4109074
+way/121433187,restaurant,Alla Stazione,,46.0367405,11.3981983
+way/121789060,alpine_hut,Rifugio La Montanara,1575,46.1572244,10.9546275
+way/121789062,restaurant,Baita Pineta,,46.1565212,10.9665973
+way/121789063,restaurant,Albergo Ristorante Del Brenta,,46.1518186,10.9609002
+way/121789064,restaurant,Ristorante Casina Bruniol,,46.1542933,10.9736179
+way/121789065,restaurant,Rifugio Pradel,,46.1514815,10.9603896
+way/121789066,alpine_hut,Malga Tovre,1450,46.155045,10.9588126
+way/121812828,alpine_hut,Rifugio ai Caduti dell'Adamello,3025,46.1686646,10.5648842
+way/121913520,restaurant,Hotel Ristorante Monte Baldo,,45.6939465,10.9258016
+way/122023472,alpine_hut,Rifugio Gardeccia,1949,46.4471951,11.6401112
+way/122054743,restaurant,Malga Alta di Pellizzano,1558,46.2937626,10.776461
+way/122118919,restaurant,Malga Couler,,46.4447301,11.6436823
+way/122118920,restaurant,Rifugio Stella Alpina,,46.4474911,11.6391872
+way/122118926,restaurant,Ristorante Bellavista,,46.4336319,11.6658752
+way/122159699,restaurant,Chalet Ristorante Lago dei Caprioli,,46.2920113,10.7668591
+way/122374773,alpine_hut,Rifugio Passo delle Selle,2530,46.3967405,11.7625526
+way/122374780,alpine_hut,Rifugio Taramelli,2045,46.3946206,11.7403115
+way/122950968,restaurant,Albergo Bar Ristorante Sindech,,45.9492571,11.2094658
+way/123034726,wilderness_hut,Bivacco Pozze,1989,46.4146881,10.9294222
+way/123034735,restaurant,Malga Preghena di Sotto,1911,46.4248722,10.9044897
+way/123034782,restaurant,Terme di Bresimo,,46.4114587,10.9569422
+way/123731350,restaurant,Pizzeria Keller,,46.1835123,11.0720242
+way/124085340,alpine_hut,Malga Val dei Brenzi,,46.2017648,11.0592083
+way/125155395,restaurant,"Rifugio Malga Caldenave ""Claudio e Renzo""",1792,46.1346583,11.5445048
+way/125474653,alpine_hut,,,46.3427159,10.7476073
+way/125480046,alpine_hut,Rifugio Potzmauer,1282,46.2348813,11.2515553
+way/126102188,restaurant,Chalet Passo Sommo,,45.9194596,11.2064628
+way/126261128,restaurant,La Locanda del Professore,,46.1440258,11.219143
+way/127102539,restaurant,,,46.1929472,11.1565776
+way/127204295,restaurant,Baita Segantini,2200,46.2985848,11.8043575
+way/127204302,alpine_hut,Capanna Cervino,2084,46.3006569,11.7925601
+way/127204307,restaurant,Agritur Malga Venegiota,1824,46.3135242,11.8149198
+way/127551992,restaurant,Albergo Ristorante Boniprati,,45.9351181,10.6013374
+way/128328157,restaurant,Al Laghetto,,46.0945634,11.4796389
+way/128328218,restaurant,La Ruscoletta,,46.1003514,11.4875949
+way/128400106,restaurant,Malga Pradont,1905,46.5191716,11.0771623
+way/128957129,restaurant,Malga Montagna Granda,,46.0569708,11.3126166
+way/129947081,alpine_hut,Rifugio Pradidali,2278,46.2442914,11.8543039
+way/130038304,restaurant,Rifugio Col Rodella,2484,46.4953947,11.7480485
+way/133213812,restaurant,Malga di Fai,1650,46.1523242,11.049755
+way/134580009,wilderness_hut,Malga Fierollo di Sopra,1747,46.1036727,11.5811141
+way/136446670,wilderness_hut,Baita Cargoni,1185,45.9768879,10.8872364
+way/137046871,restaurant,Trattoria bar Grotta di Bort Nadia,,46.0464273,11.1514626
+way/138998505,wilderness_hut,Malga Pegol,,45.8398102,10.6551234
+way/139501762,restaurant,Cima 12,,46.0430343,11.46074
+way/139516174,restaurant,Maso Valli Agritur,,46.0580305,11.4648155
+way/139516769,restaurant,Shirayuki Sushi Wok,,46.0533054,11.4547832
+way/142048873,restaurant,Alla Diga Polygon,,46.3462669,11.0593759
+way/143222277,restaurant,Agritur Erta,,45.7430665,10.968418
+way/143763831,restaurant,Agritur La Sabbionara,,46.0110139,11.1989352
+way/144884236,restaurant,Baita Tonda Cermis,,46.2646387,11.4803273
+way/144908866,restaurant,Trattoria Biancospino,,46.1227284,11.09079
+way/145271608,alpine_hut,Rifugio Fontana,,46.2803436,11.0060357
+way/145590826,alpine_hut,Baita Portolo,930,46.2445063,11.0826807
+way/147587253,restaurant,Ristorante Bar Pra' Rodont,,46.1665802,10.7863757
+way/148232848,alpine_hut,Prima Baita Malachino,,46.2774964,11.1060712
+way/150649517,restaurant,Malga Castrin - Aler Alm,1814,46.515779,11.0541615
+way/151627477,restaurant,Rifugio Petina,,46.2069732,11.8282519
+way/152250683,alpine_hut,Rifugio Passo Principe - Grasleitenpasshütte,2601,46.474036,11.6387736
+way/152876355,restaurant,Betty's Hill,,46.07806,11.5819687
+way/153152058,alpine_hut,Malga Belem,,45.962238,11.2774096
+way/153954677,restaurant,Bar Albergo Ristorante Belvedere,,46.1106456,11.3181622
+way/154553303,restaurant,Malga Pletzn,1600,46.1172439,11.3634803
+way/155511927,wilderness_hut,Bivacco Raffaele Bailoni,1632,46.0233247,11.1812998
+way/159095828,restaurant,Baita ai fortini di Napoleone,990,46.1268425,10.9502731
+way/160080025,alpine_hut,Rifugio Malga Valbiolo,2250,46.2812137,10.5797846
+way/162602634,restaurant,Malga Cioca,,46.1744767,10.8003792
+way/162607233,restaurant,Malga Mondifrà,,46.2465915,10.8561872
+way/162774975,alpine_hut,Rifugio Doss del Sabion,2100,46.1671243,10.8063331
+way/163134096,restaurant,Miravalle,,45.9911324,10.687059
+way/164841759,restaurant,Alice,,46.0484782,11.6517142
+way/164951885,wilderness_hut,Bivacco Vignolet,,45.7625729,10.9623441
+way/165309354,restaurant,Malga Fratte,,45.9487649,11.3497526
+way/165309363,restaurant,Khesar von Kåmp - Malga Campo,1455,45.920396,11.3381194
+way/166745999,alpine_hut,Malga Broi,,46.0422362,11.3563277
+way/167096859,restaurant,El Zirmo,,46.3128041,11.6889793
+way/167170832,restaurant,Mas dela Fam,,46.0256864,11.1107867
+way/167610519,restaurant,Baita Imperiale,,46.1303733,11.203778
+way/168154048,restaurant,Bar Trattoria Carnielli,,46.1181474,11.207765
+way/168485242,alpine_hut,Rifugio Scoiattolo,2008,46.3703908,10.66101
+way/168485335,restaurant,Tre larici,,46.3579459,10.6549772
+way/168511335,wilderness_hut,Rifugio Mezol,,46.3303463,10.9379692
+way/168628123,restaurant,Rifugio Orti,,46.2902189,10.813172
+way/168652767,restaurant,Albergo Pont'Arnò,,46.0275679,10.6509894
+way/168652805,restaurant,Rifugio Albergo Bar Ristorante Limes,,46.0136843,10.6692093
+way/168707777,restaurant,Agritur Ta Ciajaa,,46.4248285,11.7452229
+way/168707785,restaurant,Baita Ciampiè,,46.4215573,11.761704
+way/168707810,restaurant,Malga Mezzaselva,,46.4246243,11.7557053
+way/168921354,restaurant,Malga Crocifisso,1526,46.4165178,11.7193331
+way/169086996,wilderness_hut,Malga Cornisello,,46.2232767,10.7238746
+way/169282493,restaurant,Malga Polinar,1766,46.397416,10.8278184
+way/169826246,restaurant,Ristorante Carlon,,46.0061737,11.380114
+way/170278594,restaurant,Baita Fraines,,46.487952,11.7274551
+way/170799073,alpine_hut,Malga Casera (Soprasasso di sotto),1945,46.3818617,10.8263638
+way/170799074,alpine_hut,Malga Soprasasso Alta,2207,46.3780363,10.8229816
+way/170983128,wilderness_hut,Malga Valletta Alta,1794,46.1862528,11.3952711
+way/172219934,restaurant,Al Folon,,46.4454966,11.1453201
+way/172769987,alpine_hut,Rifugio Vièl dal Pan,2432,46.4742837,11.8341765
+way/172785016,alpine_hut,Baita Marino Pederiva,2280,46.4198542,11.6307056
+way/172785021,alpine_hut,Rifugio Paolina,2125,46.4154792,11.6145855
+way/172896396,restaurant,Baita Locia Contrin,1736,46.4504077,11.7907566
+way/172896399,alpine_hut,Rifugio Contrin,2016,46.4297615,11.8158914
+way/173152822,restaurant,Ranch dei Lupi,,46.0715484,11.5436347
+way/173349464,wilderness_hut,Bivacco Crozolam,,45.9653236,10.9016817
+way/173506566,alpine_hut,Rifugio Viviani Pradalago,2082,46.2494182,10.8143425
+way/174538912,wilderness_hut,Baito del Cadinel,,46.3540155,10.7285822
+way/174538914,alpine_hut,Nestalp - Malga Campo,1979,46.3427936,10.7317656
+way/174578099,wilderness_hut,Malga Sassa,2042,46.350121,10.7179077
+way/175498756,restaurant,Malga Fossetta,,46.1880629,11.9044191
+way/176180177,restaurant,Agritur Malga Arpaco,,46.1149551,11.6983993
+way/176936117,wilderness_hut,Malga di Brez,1845,46.4879043,11.0684934
+way/177004837,restaurant,Dal Birbante,,46.1078887,11.1098753
+way/179370424,restaurant,ristorante Al Prà,,46.1775295,11.842208
+way/180727296,wilderness_hut,Malga Scanaiol,1745,46.2223831,11.7881051
+way/180727615,alpine_hut,Tognola,,46.2413904,11.7777444
+way/181199400,restaurant,Rifugio Stella Alpina,1450,46.190158,10.6282298
+way/181210538,alpine_hut,Rifugio Adamello Collini al Bedole,1640,46.1976276,10.5967385
+way/181479853,alpine_hut,Malga Faé -Malga Doss del Bue,1031,45.9830652,11.2047519
+way/182736417,restaurant,Agritur dai Menegheti,,45.7417542,10.9579775
+way/183361959,wilderness_hut,Bivacco al Manghenéto,2080,46.1687775,11.4238402
+way/183361960,wilderness_hut,Bivacco ANA Telve,2080,46.1686476,11.4237462
+way/183407453,wilderness_hut,Malga Ravetta di Sopra,,46.1144909,11.5531551
+way/183408222,wilderness_hut,Bivacco Argentino Vanin,,46.1076611,11.5431467
+way/183483884,wilderness_hut,Bivacco Malga Derocca,,45.980349,11.1679274
+way/183878988,alpine_hut,Rifugio Tommaso Pedrotti,2491,46.1541551,10.8987399
+way/184475982,restaurant,Scoiattolo,,46.4833503,11.1479078
+way/184476031,restaurant,Le Ciaspole,,46.4801071,11.1426755
+way/184476035,restaurant,Aurora,,46.4787758,11.1358593
+way/187931866,restaurant,Malga Caino,,45.9016678,10.6243234
+way/188528877,restaurant,Maso Sveseri,,46.2067617,11.3236523
+way/189445798,alpine_hut,Malga Tuena,,46.2714363,10.9319044
+way/189817701,restaurant,Solarium Predaia,1260,46.3266024,11.1418026
+way/191101601,alpine_hut,Rifugio Dosso Larici,1838,46.1527201,11.0433473
+way/191588222,wilderness_hut,Malga Quarazza,1604,46.1164991,11.5965827
+way/199050996,restaurant,Rifugio Capanna Passo Valles,,46.3387385,11.8001116
+way/199051690,restaurant,InAlto Alfio Ghezzi Dolomites,,46.367536,11.7935872
+way/199486712,alpine_hut,Rifugio Flora Alpina,,46.3801425,11.8331158
+way/199505920,wilderness_hut,Bivacco Marco Dal Bianco,2721,46.4291801,11.8452751
+way/199506056,wilderness_hut,Capanna Punta Penia,3340,46.4343255,11.8505206
+way/199516790,restaurant,Rifugio Fredarola Harbor,2370,46.4774012,11.8147502
+way/199516795,alpine_hut,Rifugio Sass Becè,2423,46.4784192,11.8127004
+way/199519380,alpine_hut,Rifugio Luigi Gorza,2478,46.4730404,11.8680189
+way/199553709,restaurant,Rifugio Fuciade,1982,46.3926987,11.8280579
+way/199890591,restaurant,BiciGrill Asgard,,45.9272377,11.0788222
+way/200145885,restaurant,Malga Pra' Alpesina,,45.7634295,10.8785533
+way/200233134,restaurant,Rifugio Lupi di Toscana,1175,45.936439,10.6054974
+way/203393481,restaurant,Malga Millegrobbe,,45.9364631,11.3203542
+way/203462698,alpine_hut,Rifugio Torre di Pisa,2671,46.3609254,11.5595511
+way/203462702,restaurant,Baita Ganis Gardoné The Mountain Riviera,,46.340451,11.5792809
+way/203593404,alpine_hut,Baita Natalia,2064,46.2259329,10.8010824
+way/203593405,alpine_hut,Rifugio Malga Andalo,1357,46.1451007,10.9437683
+way/208278471,restaurant,Baita del Vecio,,46.1854615,11.874177
+way/209289200,wilderness_hut,Cascina Forestale,,46.167409,11.8862971
+way/210004305,alpine_hut,Rifugio Treviso,1631,46.2368222,11.9029066
+way/210381187,restaurant,Antermont,,46.4038254,11.6083656
+way/210381196,restaurant,Rosengarten,,46.4048053,11.6081582
+way/210563371,restaurant,Il Veliero,,45.884407,10.8448292
+way/211169010,alpine_hut,Rifugio Dona,2100,46.4820844,11.6977417
+way/211170709,restaurant,Malga Sasso Piatto,2250,46.5054128,11.7070745
+way/216511629,wilderness_hut,Bait dei Nìcioli,,46.2235574,11.3202468
+way/216791841,restaurant,Ristorante Airone,,46.0082068,11.28455
+way/216888950,restaurant,Baita 7 larici,,46.3462734,11.1346816
+way/217901782,wilderness_hut,Bait dal Batista,2100,46.5264306,11.07937
+way/219346408,restaurant,Castel Vasio,,46.4262406,11.1128869
+way/223044969,restaurant,Prà dei Pezi,,46.0358914,11.5231927
+way/223871299,restaurant,Riviera,,46.0036878,11.2584448
+way/224374897,restaurant,Energy Hotel,,46.0044361,11.2432649
+way/225333422,restaurant,Malga Ortesino,1425,45.8983366,11.20532
+way/225334512,alpine_hut,Hotel Forte Cherle,1417,45.9134977,11.2337046
+way/226339862,restaurant,Rifugio Belvedere,,46.4762411,11.8073065
+way/227692430,restaurant,Ca'dei Boci,,46.0985132,11.235847
+way/228057067,restaurant,Rifugio La Roda,2120,46.1424518,11.036931
+way/228406316,restaurant,Tobià de Zéli,,46.4636684,11.7850765
+way/228420324,wilderness_hut,Bivacco Casina Dosson,2360,46.0831881,10.6077212
+way/228433692,alpine_hut,Rifugio Barricata,1351,45.9799387,11.5914212
+way/228873234,alpine_hut,Rifugio Guido Larcher al Cevedale,2608,46.436916,10.6659939
+way/229447409,restaurant,Malga Fratazza,,46.254416,11.7951376
+way/229817069,restaurant,Ristorante L'Osteria del Bosco - Baita Regazzini,,46.3495843,10.9227837
+way/229911477,restaurant,Locanda al Legno,,46.0096013,11.4242973
+way/230358759,wilderness_hut,Bivacco malga Cap dei Gui,,45.9606373,10.7518421
+way/230752546,restaurant,Chalet Caserina,,46.3378493,11.5498806
+way/231420615,restaurant,Paradiso,,46.4245791,11.1781053
+way/232224971,wilderness_hut,Baita Folgorida,,46.1626674,10.6311118
+way/232381119,alpine_hut,Rifugio Silvio Dorigoni,2437,46.4606258,10.7519346
+way/232580438,restaurant,Hotel Cristo d'Oro,,46.0840223,11.5190355
+way/232781304,wilderness_hut,Bivacco malga Campel,,45.9268689,10.6693106
+way/232973841,restaurant,Ristorante Pizzeria Le Fontane,,46.0730681,10.7210719
+way/234087529,restaurant,Rifugio El Zedron,,46.4339943,11.7357212
+way/234881372,wilderness_hut,Bivacco Claudio Costanzi Albasini,2365,46.2789473,10.8956577
+way/235514173,restaurant,Agritur Malga Secine,,46.3993895,11.6095277
+way/240938276,alpine_hut,"Rifugio Rosetta ""Giovanni Pedrotti""",2580,46.2674386,11.8390215
+way/240983135,restaurant,Il Favo,,46.0642077,10.7147395
+way/241891323,restaurant,Albergo Ristorante Moleta,,46.0987744,10.7345335
+way/243494812,alpine_hut,Malga Miesnotta di Mezzo,,46.245857,11.6986666
+way/243494815,alpine_hut,Malga Miesnotta di Sopra,,46.2492346,11.6973018
+way/244091809,restaurant,Albergo Rifugio Gorck,,46.0792909,10.6667267
+way/244423388,restaurant,Trattoria Castelbarco,,45.7400313,10.9523785
+way/245305386,restaurant,,,45.7885187,10.9215138
+way/248979875,wilderness_hut,Rifugio Forestale Costa Gusela,1645,46.1585345,11.6855566
+way/249332479,alpine_hut,Malga Ai Piani,,46.2271267,11.699651
+way/249332945,alpine_hut,Malga Ai Piani,,46.2273389,11.7001785
+way/249383142,wilderness_hut,Baito Bambesta,,46.2722775,11.5832129
+way/249571162,restaurant,Bar Ristorante Malga Negritella,,46.3744688,11.7528808
+way/250271465,restaurant,Rifugio Monte Lefre,1300,46.0605263,11.5521222
+way/250300156,restaurant,Ristorante Al Cacciatore,,46.0361054,11.6458394
+way/252046412,restaurant,Rocce Rosse,,46.0331542,11.0471487
+way/253472677,restaurant,Bar risortante Stella Alpina,,46.2216298,11.293708
+way/253873689,wilderness_hut,Bivacco Colombo,3495,46.4297147,10.6163252
+way/254644928,restaurant,Chalet Isabella,,46.3787376,11.7956695
+way/254873224,restaurant,Alochet,,46.3750974,11.7553228
+way/255119471,alpine_hut,Malga Vallazza,1947,46.3414506,11.7906397
+way/255119472,alpine_hut,,1947,46.3414971,11.7902774
+way/255405172,restaurant,Bar Ristorante da Ferdy,,45.9211471,11.3247338
+way/255410491,restaurant,Pizzeria da Mario,,45.9201476,11.327587
+way/255443503,restaurant,BARaonda,,46.0687408,11.4825016
+way/255840627,restaurant,Agritur Agua Biencia,,46.4406302,11.6986822
+way/256167232,wilderness_hut,Bivacco Roberti,2205,46.192101,10.6959222
+way/256570306,wilderness_hut,Baita Sadri,,45.9492513,10.7199598
+way/256733995,alpine_hut,Rifugio Dario Albasini,,46.2902722,10.8505432
+way/259537211,restaurant,"Maso ""La vecchia Quercia""",,46.1442969,11.2552867
+way/262121200,restaurant,Stella d'Italia,1536,45.8964932,11.1950373
+way/264651054,wilderness_hut,Capanna Lagoscuro,,46.2228904,10.57028
+way/266008316,restaurant,Ristorante al Mulino,,46.0382265,11.5563859
+way/266024331,restaurant,Rifugio Cascate di Mezzo,,46.2078118,10.8463698
+way/266025884,alpine_hut,Rifugio Malghette,1890,46.2666309,10.8223671
+way/266126021,restaurant,Hotel Vallesinella,1513,46.2068697,10.8516247
+way/266158481,restaurant,Ristorante Faloria,,46.3767784,11.6602442
+way/266299031,restaurant,agritur maso Chemela,,46.2906316,11.4877684
+way/267106475,restaurant,Ristorante pizzeria all'Isolotto,,46.0268551,11.5887521
+way/267850400,wilderness_hut,Baita Regina del Bosco,,46.2869882,10.7756657
+way/267968544,restaurant,da Ugo,,45.9143309,11.1763317
+way/267991882,restaurant,Trattoria al Fogolar,,45.9144561,11.1758571
+way/268014579,restaurant,Forst Pizzeria,,45.9148307,11.1744291
+way/268014580,restaurant,Scoiattolo Pizzeria,,45.9148575,11.1743319
+way/268273017,restaurant,Giove Pizzeria,,45.9157876,11.1726911
+way/268750438,restaurant,Al Parco,,46.0109825,11.3080656
+way/273772731,wilderness_hut,Rifugio Forestale Socede,1537,46.1883072,11.5719508
+way/278003888,restaurant,Baita del Neff,,45.9548188,11.3173814
+way/278008215,restaurant,Ristorante Rivetta,,45.9595968,11.3130802
+way/286640705,restaurant,Bar Centrale,,46.3070673,11.118638
+way/286961709,restaurant,Al Cipriani,,46.0153203,11.4450759
+way/287389890,wilderness_hut,Baito de medo,,46.0146302,11.4981761
+way/287389891,wilderness_hut,Baito dell'Aia di Val Caldiera,1579,46.0178244,11.5065139
+way/287641421,restaurant,Agritur Cazzuffi,,46.3649398,10.6902529
+way/289037954,restaurant,Bar Ristorante Dolomites,,46.4972942,11.7650362
+way/289394722,alpine_hut,Rifugio Sette Selle,2014,46.1323304,11.392362
+way/290693229,alpine_hut,Baita La Zondra,,46.4332826,11.6645447
+way/291155611,wilderness_hut,Casera Scaorin,1523,46.1405156,11.8871367
+way/291725843,alpine_hut,Rifugio Sandro Pertini,2300,46.5020842,11.7246156
+way/291746077,restaurant,Malga Contrin,,46.4289663,11.8176837
+way/292970157,alpine_hut,Rifugio Roda di Vael,2283,46.4201666,11.630125
+way/293908116,restaurant,Rifugio Monte Agnello,,46.3336659,11.5477882
+way/295394101,restaurant,Bar Tulot,,46.1762973,10.770863
+way/297443140,restaurant,Baita Passo Feudo Hütte,,46.3471785,11.5594756
+way/299963433,restaurant,Pizzeria ristorante Casteltesino Camping,,46.0677897,11.6328458
+way/303193372,restaurant,Al Bus,,46.1409377,11.7737092
+way/303193375,alpine_hut,Rifugio Fonteghi,1100,46.1392164,11.8572842
+way/303463272,restaurant,Trattoria Bar Centrale,,45.6944423,10.9752258
+way/304817714,wilderness_hut,Rifugio Forestale,,46.1736154,11.9024789
+way/307400975,restaurant,Osteria Fiore,,46.0284357,10.8785593
+way/307449589,restaurant,Maso Maròc,,46.0251563,10.8878782
+way/308903127,wilderness_hut,"Bivacco Busa delle Dodese ""Roger Lenzi""",2050,46.001184,11.4805665
+way/310244672,wilderness_hut,Malghetta,,46.3160429,10.8904713
+way/316660828,restaurant,Ristorante La Baita,,46.3146613,11.4713783
+way/318974365,wilderness_hut,Malga Arzon,,46.2242347,11.7548343
+way/319776052,restaurant,Tre Faggi,,46.0086311,11.4315466
+way/319933171,alpine_hut,Maso Picosta,1325,46.058813,11.649146
+way/320282405,restaurant,Al Tastavin,,46.0669078,11.6519539
+way/320980323,alpine_hut,Rifugio Maranza,1080,46.0276086,11.1656518
+way/323265598,restaurant,Spolverino,,46.2850698,10.8376176
+way/323676098,restaurant,La Vecchia Fattoria,,46.0102847,11.2967709
+way/326624300,restaurant,Mostizzolo,,46.393594,11.0133453
+way/327322455,restaurant,Ristorante Al Capriolo,,46.0965978,11.2618093
+way/331045899,restaurant,Osteria al Rabies,,46.4008725,10.8459123
+way/331155754,restaurant,Albergo Vittoria,,46.0512226,11.4096432
+way/334299055,wilderness_hut,Bivacco Gualtiero Laeng,3191,46.1395542,10.5873595
+way/336929393,restaurant,Ristorante ai Larici,,46.0509183,11.6543597
+way/338525442,restaurant,Malga Boer,,46.3804417,11.8187881
+way/355326941,alpine_hut,Velo della Madonna,2358,46.231342,11.8427414
+way/355347068,alpine_hut,Rifugio Casarota,1572,45.9544206,11.195496
+way/355435751,wilderness_hut,Bivacco Tadina,,46.1236539,11.534279
+way/355470717,wilderness_hut,Bait Lago di Cece,,46.2822664,11.669976
+way/361715942,restaurant,Agritur Malga Sadole,,46.2603345,11.5979899
+way/361715944,alpine_hut,Rifugio Baita Monte Cauriol,1600,46.2603156,11.5989586
+way/362363665,restaurant,Hotel Aurai,,46.1344157,11.4765818
+way/363001211,alpine_hut,Rifugio Albergo Miralago,1920,46.3806445,11.8029495
+way/363936658,restaurant,Rifugio Federico Augusto,2300,46.5004073,11.7451847
+way/364308783,alpine_hut,Rifugio Passo Paradiso,,46.2389949,10.5805177
+way/365552069,restaurant,Miramonti - La Pozza,,45.9856135,10.6615419
+way/365827453,wilderness_hut,Malga Campa,1978,46.23367,10.9730983
+way/367464095,wilderness_hut,Bivacco Cunella,2245,46.0707798,10.6250017
+way/368209215,restaurant,,,45.7346333,10.9418909
+way/368282820,wilderness_hut,Bivacco Jack Canali,2480,46.2483408,10.7041927
+way/373482275,wilderness_hut,Bivacco Forcella Coldosè,2163,46.2595958,11.6244733
+way/374522887,restaurant,Ristorante Malga Panna,,46.3769895,11.6438525
+way/374523110,restaurant,Ristorante Malga Peniola,,46.3650342,11.6353374
+way/378749292,alpine_hut,Malga Fossernica di dentro,1785,46.2249542,11.6429582
+way/378750332,alpine_hut,Malga Fiamena,,46.1942494,11.7053003
+way/378750825,alpine_hut,Malga Boalon,,46.1866644,11.7299211
+way/378750826,alpine_hut,Malga Boalon,,46.1871537,11.7292829
+way/378752744,alpine_hut,Rifugio Punta Ces,2227,46.2677764,11.759768
+way/384982796,restaurant,,,46.0962861,10.9321267
+way/386376071,restaurant,Moja,,45.8831306,11.0196636
+way/394984768,restaurant,Ristorante Bar Pizzeria Capriccio,,46.1803846,11.8319083
+way/395173857,wilderness_hut,Bivacco malga Alpo di Storo,,45.8144223,10.5873383
+way/395318007,restaurant,Mas de la Bolp,,46.3970684,10.8424185
+way/395524072,restaurant,Il Caminetto,,46.1798835,11.839004
+way/396222407,restaurant,Pizzeria La Marisana,,46.305371,11.4626139
+way/397478877,wilderness_hut,Bivacco Malga Ringia,,45.9419116,10.6787112
+way/397519537,wilderness_hut,Baita Bragone,,45.8333436,10.6359414
+way/399458941,alpine_hut,Rifugio Refavaie,1100,46.216315,11.623456
+way/404413967,restaurant,BikeBreak - Bicigrill Faedo,,46.2127949,11.1481444
+way/404969237,restaurant,Ristorante Pizzeria Bar Centrale,,46.1610688,11.3024096
+way/411716099,restaurant,Agritur Malgola,,46.2781448,10.6549732
+way/411716123,restaurant,Agriturismo Volpaia,,46.2859333,10.6730825
+way/421829960,restaurant,Agritur Al Paradis,,46.3026079,11.0603765
+way/423844091,restaurant,Albergo Passo Brocon,,46.11847,11.6882069
+way/423844092,restaurant,Hotel Pizzo degli Uccelli,,46.1189055,11.6883385
+way/430236699,wilderness_hut,Baito Pudria,2114,46.334227,10.6295393
+way/430645851,restaurant,Baita Miara Hütte,,46.5017104,11.749994
+way/432120248,restaurant,Maso Santa Romina,,46.1686656,11.7618164
+way/432347505,restaurant,Trattoria La Fornace,,46.1498582,11.7351066
+way/432347514,restaurant,Bar Lagorai,,46.1485409,11.7349254
+way/433017365,wilderness_hut,Bivacco Malga Moregna,,46.2672773,11.6354569
+way/433028320,restaurant,Agritur Malga Valmaggiore,,46.2797508,11.6484383
+way/433049570,restaurant,Chalet 44 Alpine Lounge,,46.3308569,11.7087288
+way/433056659,alpine_hut,Devil's bite,,46.3363267,11.7070813
+way/434794288,wilderness_hut,Baito Novo de la Storta,,46.2510518,11.4402584
+way/435854700,alpine_hut,Malga Fiamena,,46.194457,11.7048745
+way/436634231,wilderness_hut,Bivacco Stalon De Bon,1848,46.2617187,10.7274931
+way/437649469,restaurant,Ristorante alla Villa,,46.4539251,11.1165811
+way/438001203,restaurant,Ristorante Alpino,,46.4312281,11.1074086
+way/438163683,restaurant,Malga Fratte Bassa,1482,46.4117217,10.7794002
+way/438244395,alpine_hut,Malga Caldesa bassa,1835,46.4228503,10.8199867
+way/438248493,wilderness_hut,Baito Val Sossoi,1880,46.3173856,11.5360054
+way/440848492,restaurant,Pizzeria alle piazze,,46.1572346,11.7403787
+way/442474994,wilderness_hut,Bivacco Eugenio Segalla,3050,46.098856,10.5945104
+way/445101957,wilderness_hut,Baito della Portela,1992,46.0882223,11.3668839
+way/448279918,wilderness_hut,Rifugio Santa Barbara,,46.4305115,10.9086748
+way/449036456,restaurant,,,46.3001589,11.5993087
+way/454726498,restaurant,Malga Stableti,1598,46.3925393,10.7879943
+way/457171919,wilderness_hut,Baita Pozzi,1971,46.3278283,11.4704003
+way/461447344,wilderness_hut,Bivacco Caseròte,1935,46.1446097,11.4150346
+way/461838635,restaurant,El Calderon,,46.2853272,11.4652677
+way/463282414,restaurant,"Hostaria ""La Gamela""",,46.1510577,11.7360481
+way/465264122,restaurant,Chalet Cimone,,45.9545129,11.2841145
+way/470494799,wilderness_hut,Baito dei Slavazi,1955,46.2609906,11.5904883
+way/476171140,wilderness_hut,Baito Casera Vecchia,1752,46.3187666,11.5450285
+way/478895566,wilderness_hut,Bivacco Aldo Moro,2565,46.2646547,11.7234387
+way/479218878,alpine_hut,Malga Tognola di san Vittore,,46.2315277,11.7461738
+way/484073982,wilderness_hut,Colvere,,46.3581418,11.7007194
+way/487174724,alpine_hut,Rifugio Paludei,1059,45.9712677,11.2244053
+way/491909836,restaurant,,,45.6982949,10.9272516
+way/492124900,wilderness_hut,Baita Busa Prima,,46.2761254,11.5624099
+way/492196974,wilderness_hut,Bivacco Paolo e Nicola,,46.256854,11.6649972
+way/499482793,restaurant,La Bolp,,46.4297614,11.7219512
+way/508095908,restaurant,Baita Enrosadira,,46.4468783,11.6401256
+way/511337508,restaurant,Ristorante Scaranò,,46.0161348,11.3156451
+way/514999294,alpine_hut,Rifugio Passo di San Nicolo,2340,46.4216136,11.7931604
+way/518731748,restaurant,Agritur Solasna,,46.3789855,10.9629579
+way/534302143,alpine_hut,Rifugio Vallaccia,2275,46.3974976,11.7207583
+way/537436016,wilderness_hut,Bivacco Caldenave,,46.1343731,11.5441772
+way/552234234,restaurant,Alfiero,,46.2252589,10.8282783
+way/557813326,restaurant,Bici Grill Rovereto,,45.8803855,11.0216469
+way/557944128,restaurant,Tema,,45.8946215,11.0438941
+way/584370992,wilderness_hut,Baito Vanesi,828,46.028987,11.4788547
+way/588233834,restaurant,Pizzeria Ristorante ai Giardini,,45.9146224,11.0337564
+way/590860497,wilderness_hut,Bivacco C. G. Avio - Pian della Cenere,,45.7278275,10.8846288
+way/614045045,wilderness_hut,Malga Brenta Alta,,46.1822716,10.8575633
+way/614207326,restaurant,Chalet degli Angeli,,46.2898637,10.8497949
+way/625772047,restaurant,Malga Pala,1897,46.2719618,11.8143147
+way/627021864,wilderness_hut,,,46.4296904,11.816356
+way/627387259,alpine_hut,Baita alle Cascate,2011,46.4161205,11.7821606
+way/653276184,restaurant,Ristorante Bar Posta,,46.3728775,10.8786368
+way/658992395,restaurant,Lo Chalet,2170,46.2371159,11.5023809
+way/659379663,wilderness_hut,Baita della Pace,1650,46.0520472,11.5836564
+way/664282658,alpine_hut,Rifugio Baita Checco,1988,46.4332587,11.6639943
+way/664282659,alpine_hut,Rifugio Negritella,1986,46.433734,11.6617635
+way/666737895,restaurant,Casa dell'Orsetto,,45.9189901,11.1937447
+way/666737944,restaurant,ristorante da giorgio,,45.914239,11.1751509
+way/681808230,restaurant,Ristorante bar Miola,,46.297979,11.606647
+way/681808393,restaurant,Agritur Maso Lena,,46.2982524,11.6022645
+way/690380723,restaurant,El Casèl dei Masi,,46.2221584,11.271801
+way/700206987,restaurant,Piccolo Fiore,,45.8908225,11.0425318
+way/713785757,wilderness_hut,Bivacco Malga Cavai,,46.3031029,10.918175
+way/721714716,restaurant,El Raminel,,45.8914748,11.0440752
+way/724615063,restaurant,Roadhouse,,45.873182,11.030862
+way/765413904,restaurant,Malga Crel,1577,46.2415273,11.7963261
+way/771578872,restaurant,Rosspach,,45.9160263,11.1390066
+way/804657591,wilderness_hut,Baita Stablel,,46.1765502,10.6218186
+way/809179361,wilderness_hut,Bivacco Massimo Nella,2068,46.1909761,10.7330832
+way/865728178,restaurant,Acetaia,,45.9147568,10.8439724
+way/865810644,restaurant,Trattoria Piè di castello,,45.9150844,10.8413108
+way/871558724,wilderness_hut,Malga Cupolà di Sopra,1827,46.2108916,11.5656212
+way/887490858,restaurant,Chalet Spitz,,45.9554389,11.3293653
+way/912882570,restaurant,,,45.8536717,10.9794967
+way/913911553,restaurant,,,45.8554649,10.9862797
+way/964320024,restaurant,Baita Rodella Hutte 2222,,46.5010368,11.7545681
+way/966990745,restaurant,Locanda San Martino,,46.368462,10.9589347
+way/979802038,restaurant,Chiosco agli Ulivi,,45.9580404,10.9108305
+way/982310528,restaurant,Baita Laghetto,,45.7820793,10.9368742
+way/1009170774,restaurant,Alpen Grill,,46.1172556,11.0893457
+way/1019897165,restaurant,Bandus,,46.0041782,11.2884364
+way/1041407910,wilderness_hut,Baita Monte Silana,,46.0811505,11.6027147
+way/1066652942,wilderness_hut,Maso Bernardi,,46.4602121,10.9808745
+way/1089527515,restaurant,Piccadilly,,46.2236142,10.8283085
+way/1091683248,wilderness_hut,Bivacco Forestale,1830,46.4667029,10.9753798
+way/1092047294,restaurant,Baita Lino Brach,,46.4926712,11.6961551
+way/1092213079,alpine_hut,Rifugio Ciampedie,1998,46.4338655,11.6642725
+way/1126716977,restaurant,Locanda al Castello,,45.7457797,10.9514771
+way/1136138478,restaurant,,,46.3645357,11.0330494
+way/1146405552,wilderness_hut,Bait Cacciatori,,46.0730447,10.8046767
+way/1157676893,wilderness_hut,Bait del Vescovo,,46.3714612,11.1479521
+way/1159313873,wilderness_hut,Bivacco Casarotte,1760,46.099846,11.5390989
+way/1163083715,wilderness_hut,Casa Forestale,,46.3014339,11.655074
+way/1166071361,restaurant,Al Pandèmia 19,,46.4773594,11.7741396
+way/1207369723,alpine_hut,Rifugio Mythe Peio 3000,2985,46.3838444,10.6314749
+way/1212509527,wilderness_hut,Baito del Germano,,46.3380679,10.8346617
+way/1221415730,restaurant,Il Viandante,,45.9490942,11.1065157
+way/1229706960,restaurant,Bottega Bontadi,,45.8902053,11.0437876
+way/1239032680,wilderness_hut,Baita dei cacciatori,,46.10766,11.3619326
+way/1280594758,restaurant,,,45.9286685,11.0717524
+way/1283288690,restaurant,,,45.9121862,11.0232984
+way/1287114357,wilderness_hut,Bivacco Giacomelli alla Madonnina,,45.9711042,11.1861105
+way/1308496226,wilderness_hut,Bait de le bece,,46.3439688,10.8260128
+way/1311011229,wilderness_hut,Bivacco Brigata Orobica,3382,46.2170388,10.6672613
+way/1333788905,wilderness_hut,,,46.0308145,11.54952
+way/1340810730,wilderness_hut,Bivacco Malga Nova,1210,46.0330897,11.1747001
+way/1342631032,restaurant,Rifugio SunBait,,46.4844449,11.795642
+way/1355999352,wilderness_hut,Casina dal Candido,,46.1519095,10.7257961
+way/1410575290,restaurant,Masc Aloch,,46.425567,11.6911014
+way/1414138413,alpine_hut,Bivacco Detassis,,46.1754782,10.8759502
+way/1434887326,restaurant,Zoo Bar,,45.9324793,10.8931238
+way/1529611722,wilderness_hut,"Comediolo ""Massimiliano Lucietti""",2315,46.3229651,10.616935
+way/1545964826,wilderness_hut,,,45.9776624,11.6474428
+relation/1388190,restaurant,Cantina De Tarczal,,45.8947785,11.0163445
+relation/9813083,restaurant,Malga Valli,1514,45.8517699,11.129004
+relation/16378703,wilderness_hut,Biv. Baito Colazzo,,46.0215118,11.5142067

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRilievo_neve xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.meteotrentino.it/">
+  <rilievo_neve>
+    <dataMis>17/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>5</n>
+    <v>4</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>6  </ta>
+    <tmin>-1 </tmin>
+    <tmax>6  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>16/11/2026 00:00:00</dataMis>
+    <codStaz>39BE</codStaz>
+    <oraDB>900</oraDB>
+    <ww>//</ww>
+    <n>/</n>
+    <v>/</v>
+    <vq1>/</vq1>
+    <vq2>/</vq2>
+    <ta>// </ta>
+    <tmin>// </tmin>
+    <tmax>// </tmax>
+    <hs>002</hs>
+    <hn>001</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>16/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>0</n>
+    <v>4</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>0  </ta>
+    <tmin>-3 </tmin>
+    <tmax>2  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>15/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>8</n>
+    <v>1</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>-2 </ta>
+    <tmin>-3 </tmin>
+    <tmax>2  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>14/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>0</n>
+    <v>4</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>-3 </ta>
+    <tmin>-1 </tmin>
+    <tmax>7  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>13/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>63</ww>
+    <n>8</n>
+    <v>2</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>3  </ta>
+    <tmin>4  </tmin>
+    <tmax>6  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>13/11/2026 00:00:00</dataMis>
+    <codStaz>60TN</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>4</n>
+    <v>3</v>
+    <vq1>/</vq1>
+    <vq2>/</vq2>
+    <ta>// </ta>
+    <tmin>1  </tmin>
+    <tmax>15 </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>12/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>63</ww>
+    <n>8</n>
+    <v>2</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>5  </ta>
+    <tmin>2  </tmin>
+    <tmax>8  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>11/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>00</ww>
+    <n>4</n>
+    <v>1</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>4  </ta>
+    <tmin>3  </tmin>
+    <tmax>7  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+  <rilievo_neve>
+    <dataMis>10/11/2026 00:00:00</dataMis>
+    <codStaz>21MB</codStaz>
+    <oraDB>800</oraDB>
+    <ww>44</ww>
+    <n>6</n>
+    <v>1</v>
+    <vq1>0</vq1>
+    <vq2>0</vq2>
+    <ta>6  </ta>
+    <tmin>-2 </tmin>
+    <tmax>4  </tmax>
+    <hs>000</hs>
+    <hn>000</hn>
+    <fi>///</fi>
+    <t10>// </t10>
+    <t30>// </t30>
+    <pr>///</pr>
+    <cs>//</cs>
+    <s>/</s>
+    <b>/</b>
+  </rilievo_neve>
+</ArrayOfRilievo_neve>

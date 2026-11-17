@@ -1,0 +1,39 @@
+Cleaning run 2026-11-17 11:03
+
+[OSM hiking routes] raw relations: 1657
+  fixed 5 distances written in metres instead of km: ['627B', '177', '419A', 'SMC', '24']
+  removed 172 relations without ref and reg_ref (cannot be identified)
+  unparseable values set to empty: {'duration': 1, 'distance': 0, 'ascent': 0}
+  -> trails_osm.csv: 1485 rows
+     missing reg_ref: 404 (27%)
+     missing name: 881 (59%)
+     missing distance_km: 306 (20%)
+     missing duration_forward_min: 336 (22%)
+     missing ascent_m: 352 (23%)
+     missing cai_scale: 263 (17%)
+
+[SAT trails] raw placemarks: 1082
+  removed 2 duplicate sat_code (kept the first segment): ['E396', 'E731']
+  -> trails_sat.csv: 1080 rows
+     missing name: 689 (63%)
+
+[OSM POIs] raw elements: 1860
+  removed 0 POIs without coordinates
+  -> pois_osm.csv: 1860 rows
+     missing name: 75 (4%)
+     missing elevation_m: 1574 (84%)
+     alpine_hut: 189
+     restaurant: 1511
+     wilderness_hut: 160
+
+[Meteotrentino weather stations] raw: 208
+  active stations (no end date): 113
+  -> weather_stations.csv: 208 rows
+
+[Meteotrentino snow fields] raw: 55
+  -> snow_stations.csv: 55 rows
+
+[Meteotrentino snow observations] raw: 10
+  removed 0 observations without snow depth and fresh snow
+  dates covered: 2026-11-10 .. 2026-11-17
+  -> snow_observations.csv: 10 rows

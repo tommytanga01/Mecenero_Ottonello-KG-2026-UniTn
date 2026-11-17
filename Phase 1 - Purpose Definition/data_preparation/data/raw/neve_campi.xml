@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnagrafica_neve xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.meteotrentino.it/">
+  <anagrafica_neve>
+    <codice>11AN</codice>
+    <nome>ANDALO</nome>
+    <nomebreve>ANDALO</nomebreve>
+    <quota>1047</quota>
+    <utmlat>654463</utmlat>
+    <utmlon>5115044</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>21MB</codice>
+    <nome>MALGA BISSINA</nome>
+    <nomebreve>BISSINA</nomebreve>
+    <quota>1780</quota>
+    <utmlat>617129.7038</utmlat>
+    <utmlon>5101039.8975</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>43BU</codice>
+    <nome>BUFFAURE</nome>
+    <nomebreve>BUFFAURE</nomebreve>
+    <quota>2060</quota>
+    <utmlat>709265.309</utmlat>
+    <utmlon>5145470.867</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>23MC</codice>
+    <nome>MADONNA DI CAMPIGLIO - PANCUGOLO</nome>
+    <nomebreve>CAMPIGLIO</nomebreve>
+    <quota>2015</quota>
+    <utmlat>638923.293</utmlat>
+    <utmlon>5120875.831</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>18SB</codice>
+    <nome>MASI LOZEN</nome>
+    <nomebreve>CANAL SAN BOVO</nomebreve>
+    <quota>1150</quota>
+    <utmlat>714175</utmlat>
+    <utmlon>5116742</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>39BE</codice>
+    <nome>BELVEDERE - SAS BECE' (CANAZEI)</nome>
+    <nomebreve>CANAZEI ( SASS BECE' )</nomebreve>
+    <quota>2121</quota>
+    <utmlat>714959.0467</utmlat>
+    <utmlon>5151732.0621</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>17CA</codice>
+    <nome>CAORIA</nome>
+    <nomebreve>CAORIA</nomebreve>
+    <quota>915</quota>
+    <utmlat>706095.8041</utmlat>
+    <utmlon>5119812.6748</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>22CI</codice>
+    <nome>CANAZEI CIAMPAC</nome>
+    <nomebreve>CIAMPAC</nomebreve>
+    <quota>2145</quota>
+    <utmlat>712683.0623</utmlat>
+    <utmlon>5147328.0532</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>27CM</codice>
+    <nome>VIGO DI FASSA CIAMPEDIE</nome>
+    <nomebreve>CIAMPEDIE</nomebreve>
+    <quota>1975</quota>
+    <utmlat>704586.16733</utmlat>
+    <utmlon>5145609.33813</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>35VC</codice>
+    <nome>MALGA VAL CIGOLERA</nome>
+    <nomebreve>CIGOLERA</nomebreve>
+    <quota>1880</quota>
+    <utmlat>712817</utmlat>
+    <utmlon>5126802</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>38CV</codice>
+    <nome>COL VERDE</nome>
+    <nomebreve>COL VERDE</nomebreve>
+    <quota>1877</quota>
+    <utmlat>717059</utmlat>
+    <utmlon>5128047</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>44DO</codice>
+    <nome>DOSSIOLI-PRA ALPESINA</nome>
+    <nomebreve>DOSSIOLI</nomebreve>
+    <quota>1430</quota>
+    <utmlat>646341.1282</utmlat>
+    <utmlon>5068945.0983</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>12FO</codice>
+    <nome>FOLGARIA - PASSO SOMMO</nome>
+    <nomebreve>FOLGARIA</nomebreve>
+    <quota>1360</quota>
+    <utmlat>671070.4594</utmlat>
+    <utmlon>5087375.0409</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>29FL</codice>
+    <nome>FOLGARIDA MALGHET AUT</nome>
+    <nomebreve>FOLGARIDA</nomebreve>
+    <quota>1890</quota>
+    <utmlat>642242.43199</utmlat>
+    <utmlon>5127945.89254</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>41GR</codice>
+    <nome>GROSTE'</nome>
+    <nomebreve>GROSTE'</nomebreve>
+    <quota>2265</quota>
+    <utmlat>645752.2419</utmlat>
+    <utmlon>5119974.4166</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>18CL</codice>
+    <nome>LAGO DI CALAITA</nome>
+    <nomebreve>LAGO DI CALAITA</nomebreve>
+    <quota>1588</quota>
+    <utmlat>715143</utmlat>
+    <utmlon>5120228</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>42LU</codice>
+    <nome>LUSIA</nome>
+    <nomebreve>LUSIA</nomebreve>
+    <quota>2050</quota>
+    <utmlat>706376</utmlat>
+    <utmlon>5136019</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>20BA</codice>
+    <nome>MALGA BAESSA</nome>
+    <nomebreve>M BAESSA</nomebreve>
+    <quota>1320</quota>
+    <utmlat>689889.7342</utmlat>
+    <utmlon>5113366.828</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>48MZ</codice>
+    <nome>MALGA ZUGNA</nome>
+    <nomebreve>MALGA ZUGNA</nomebreve>
+    <quota>1610</quota>
+    <utmlat>659919.0047</utmlat>
+    <utmlon>5074726.069</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>50MA</codice>
+    <nome>MARMOLADA</nome>
+    <nomebreve>MARMOLADA</nomebreve>
+    <quota>2925</quota>
+    <utmlat>721113.3</utmlat>
+    <utmlon>5146679.27</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>16PT</codice>
+    <nome>PASSO BROCON - MALGA MARANDE</nome>
+    <nomebreve>P BROCON</nomebreve>
+    <quota>1608</quota>
+    <utmlat>705786.206</utmlat>
+    <utmlon>5110459.673</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>34PD</codice>
+    <nome>PASSO DURONE</nome>
+    <nomebreve>P DURONE</nomebreve>
+    <quota>1007</quota>
+    <utmlat>638954.2789</utmlat>
+    <utmlon>5099735.296</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>34FE</codice>
+    <nome>PASSO FEDAIA</nome>
+    <nomebreve>P FEDAIA</nomebreve>
+    <quota>2100</quota>
+    <utmlat>720085.7052</utmlat>
+    <utmlon>5148885.177</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>31RO</codice>
+    <nome>PASSO ROLLE</nome>
+    <nomebreve>P ROLLE</nomebreve>
+    <quota>2012</quota>
+    <utmlat>714648.5609</utmlat>
+    <utmlon>5130925.0333</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>26SP</codice>
+    <nome>PASSO SAN PELLEGRINO</nome>
+    <nomebreve>P S.PELLEGRINO</nomebreve>
+    <quota>1980</quota>
+    <utmlat>714927.22475</utmlat>
+    <utmlon>5140530.5703</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>5PSV</codice>
+    <nome>PASSO SAN VALENTINO</nome>
+    <nomebreve>P S.VALENTINO</nomebreve>
+    <quota>1320</quota>
+    <utmlat>648524.77449</utmlat>
+    <utmlon>5071708.78479</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>25TO</codice>
+    <nome>PASSO TONALE SCUOLA PAT</nome>
+    <nomebreve>P TONALE</nomebreve>
+    <quota>1880</quota>
+    <utmlat>623059.2523</utmlat>
+    <utmlon>5124460.0507</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>7PVA</codice>
+    <nome>PASSO VALLES</nome>
+    <nomebreve>P VALLES</nomebreve>
+    <quota>2045</quota>
+    <utmlat>715571.6678</utmlat>
+    <utmlon>5135579.892</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>40PA</codice>
+    <nome>PAGANELLA</nome>
+    <nomebreve>PAGANELLA</nomebreve>
+    <quota>1790</quota>
+    <utmlat>656124.7</utmlat>
+    <utmlon>5111923.2</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>40MZ</codice>
+    <nome>PAGANELLA - MALGA ZAMBANA</nome>
+    <nomebreve>PAGANELLA - Malga Zambana</nomebreve>
+    <quota>1798</quota>
+    <utmlat>656639</utmlat>
+    <utmlon>5112647</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>45VB</codice>
+    <nome>PAGANELLA - VALLE BIANCA</nome>
+    <nomebreve>PAGANELLA VALLE BIANCA</nomebreve>
+    <quota>1861</quota>
+    <utmlat>656136</utmlat>
+    <utmlon>5111515</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>10PM</codice>
+    <nome>PAMPEAGO</nome>
+    <nomebreve>PAMPEAGO</nomebreve>
+    <quota>1760</quota>
+    <utmlat>695429.46496</utmlat>
+    <utmlon>5135225.68981</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>10MS</codice>
+    <nome>PAMPEAGO - MONSORNO</nome>
+    <nomebreve>PAMPEAGO M.</nomebreve>
+    <quota>1985</quota>
+    <utmlat>696357.475</utmlat>
+    <utmlon>5135781.261</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>10NT</codice>
+    <nome>PAMPEAGO TRESCA</nome>
+    <nomebreve>PAMPEAGO NA.</nomebreve>
+    <quota>2080</quota>
+    <utmlat>696599.822</utmlat>
+    <utmlon>5134383.449</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>9PTA</codice>
+    <nome>PANAROTTA</nome>
+    <nomebreve>PANAROTTA</nomebreve>
+    <quota>1775</quota>
+    <utmlat>679470.22347</utmlat>
+    <utmlon>5102239.23872</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>8PAN</codice>
+    <nome>PANEVEGGIO</nome>
+    <nomebreve>PANEVEGGIO</nomebreve>
+    <quota>1535</quota>
+    <utmlat>711552.49417</utmlat>
+    <utmlon>5132107.31391</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>1PEI</codice>
+    <nome>PEJO TARLENTA</nome>
+    <nomebreve>PEJO</nomebreve>
+    <quota>1985</quota>
+    <utmlat>627885</utmlat>
+    <utmlon>5136546</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>51PJ</codice>
+    <nome>Pejo 3000 Crozzi Taviela</nome>
+    <nomebreve>Pejo 3000</nomebreve>
+    <quota>2960</quota>
+    <utmlat>625488</utmlat>
+    <utmlon>5138027.5</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>3PIN</codice>
+    <nome>PINZOLO - GRUAL</nome>
+    <nomebreve>PINZOLO</nomebreve>
+    <quota>1885</quota>
+    <utmlat>639888.6793</utmlat>
+    <utmlon>5114783.6246</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>14PO</codice>
+    <nome>POZZA DI FASSA</nome>
+    <nomebreve>POZZA DI FASSA</nomebreve>
+    <quota>1365</quota>
+    <utmlat>707374.104</utmlat>
+    <utmlon>5145059.5539</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>23PL</codice>
+    <nome>CAMPIGLIO - PRADALAGO</nome>
+    <nomebreve>PRADALAGO</nomebreve>
+    <quota>2084</quota>
+    <utmlat>639820</utmlat>
+    <utmlon>5123390</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>13PR</codice>
+    <nome>PREDAZZO GARDONÈ</nome>
+    <nomebreve>PREDAZZO</nomebreve>
+    <quota>1675</quota>
+    <utmlat>698218.79914</utmlat>
+    <utmlon>5135083.89949</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>30PN</codice>
+    <nome>PRESENA</nome>
+    <nomebreve>PRESENA</nomebreve>
+    <quota>2735</quota>
+    <utmlat>621741</utmlat>
+    <utmlon>5120602</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>2RAB</codice>
+    <nome>RABBI</nome>
+    <nomebreve>RABBI</nomebreve>
+    <quota>1335</quota>
+    <utmlat>638591</utmlat>
+    <utmlon>5141136</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>36RT</codice>
+    <nome>RIFUGIO TRIVENA</nome>
+    <nomebreve>Rif. TRIVENA</nomebreve>
+    <quota>1650</quota>
+    <utmlat>624678.54138</utmlat>
+    <utmlon>5100839.36899</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>28RM</codice>
+    <nome>RUMO</nome>
+    <nomebreve>RUMO</nomebreve>
+    <quota>1100</quota>
+    <utmlat>654244.16832</utmlat>
+    <utmlon>5146435.31864</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>4SMC</codice>
+    <nome>SAN MARTINO DI CASTROZZA</nome>
+    <nomebreve>S. MARTINO</nomebreve>
+    <quota>1465</quota>
+    <utmlat>715498.0432</utmlat>
+    <utmlon>5126917.1277</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>15TR</codice>
+    <nome>TREMALZO</nome>
+    <nomebreve>TREMALZO</nomebreve>
+    <quota>1550</quota>
+    <utmlat>630778.07515</utmlat>
+    <utmlon>5077834.9986</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>60TN</codice>
+    <nome>TRENTO CITTA'</nome>
+    <nomebreve>TRENTO PIAZZA DANTE</nomebreve>
+    <quota>194</quota>
+    <utmlat>664015.6011</utmlat>
+    <utmlon>5104227.3951</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>24NO</codice>
+    <nome>VAL NOANA DIGA</nome>
+    <nomebreve>VAL NOANA</nomebreve>
+    <quota>1020</quota>
+    <utmlat>719299.0056</utmlat>
+    <utmlon>5113379.5307</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>19PF</codice>
+    <nome>VALLARSA PIAN FUGAZZE</nome>
+    <nomebreve>VALLARSA</nomebreve>
+    <quota>1170</quota>
+    <utmlat>669130.9721</utmlat>
+    <utmlon>5069560.0061</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>49VA</codice>
+    <nome>MONTE BONDONE VASON-PALON</nome>
+    <nomebreve>VASON</nomebreve>
+    <quota>1670</quota>
+    <utmlat>659418.61</utmlat>
+    <utmlon>5100267.96</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>46VE</codice>
+    <nome>VERMIGLIO</nome>
+    <nomebreve>VERMIGLIO</nomebreve>
+    <quota>1280</quota>
+    <utmlat>630107.9366</utmlat>
+    <utmlon>5128492.038</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>6BON</codice>
+    <nome>BONDONE VIOTE</nome>
+    <nomebreve>VIOTE</nomebreve>
+    <quota>1495</quota>
+    <utmlat>659073.64004</utmlat>
+    <utmlon>5097617.19136</utmlon>
+  </anagrafica_neve>
+  <anagrafica_neve>
+    <codice>37VW</codice>
+    <nome>VILLA WELSPERG</nome>
+    <nomebreve>WELSPERG</nomebreve>
+    <quota>1040</quota>
+    <utmlat>721322.16514</utmlat>
+    <utmlon>5120150.93346</utmlon>
+  </anagrafica_neve>
+</ArrayOfAnagrafica_neve>
